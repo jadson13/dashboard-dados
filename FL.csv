@@ -867,9 +867,7 @@ CPF: 05042549366";Frota Legal - Correções e Ajustes;2025-05-05T16:22:35Z;jadso
 
 Segue em anexo a imagem.";Correção (Bugs)
 3340;#21995 - 17330 - Solicitação de inspeção ao alterar  dados no cadastro do veiculo.;"Gostaríamos de solicitar que sempre que o operador logístico realizar QUALQUER alteração no cadastro do veiculo; o veiculo seja bloqueado pelo seguinte motivo ""Inspeção Segurança Veicular Detalhada (Periódica) pendente"".
-Sendo assim obrigando que o operador logístico realize uma nova inspeção.";Frota Legal - Correções e Ajustes;2025-05-05T18:04:36Z;tallison.jesus@demarco.com.br;Pronto para Atuar;2026-02-25T20:42:00Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;1;"Atualmente o sistema não bloqueia o veiculo por mudança de ""tipo de equipamento""; por esse motivo a solicitação de adicionar esse item nas opções de bloqueio. 
-
-abaixo segue JAM mostrando o sistema atualmente https://jam.dev/c/ad37bbdb-7dad-4f30-87d9-401d08e67179";Ajuste (Melhorias Rápidas e Pontuais)
+Sendo assim obrigando que o operador logístico realize uma nova inspeção.";Frota Legal - Correções e Ajustes;2025-05-05T18:04:36Z;tallison.jesus@demarco.com.br;Concluído ou Descontinuado;2026-03-10T03:00:20Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;5;Card avaliado e alinhado com a Giselle em reunião! obrigado;Ajuste (Melhorias Rápidas e Pontuais)
 3387;Não cobrar dados de CNH quando o cargo for ajudante;"Olá! 
 
 Identificamos que o sistema cobra de forma obrigatória os dados da CNH mesmo quando o cargo é de ajudante. Gentileza retirar essa obrigatoriedade. Obrigada!";Frota Legal - Correções e Ajustes;2025-05-07T14:27:01Z;sabrina.alcantara@demarco.com.br;Concluído ou Descontinuado;2025-05-15T17:51:01Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Correção (Bugs)
@@ -1375,7 +1373,7 @@ CPF 73901032568
 Modelo do celular: Samsung A02";Frota Legal - Correções e Ajustes;2025-09-03T18:58:12Z;larice.nunes@demarco.com.br;Concluído ou Descontinuado;2025-12-22T18:48:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;ok;Correção (Bugs)
 5996;18638 - ERRO - Falha da atribuição de eventos (Interno 21447);"Bom dia! 
 
-Estamos com falha na atribuição de eventos por integração nos sistemas Frota e DMPeople. Gentileza nos ajudar a regularizar a atribuição de eventos daqui para frente.";Frota Legal - Correções e Ajustes;2025-09-04T13:39:33Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-03-04T20:48:19Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;;"Olá; boa tarde! 
+Estamos com falha na atribuição de eventos por integração nos sistemas Frota e DMPeople. Gentileza nos ajudar a regularizar a atribuição de eventos daqui para frente.";Frota Legal - Correções e Ajustes;2025-09-04T13:39:33Z;sabrina.alcantara@demarco.com.br;Em Andamento;2026-03-12T18:51:40Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;1;"Olá; boa tarde! 
 
 Verificamos que pelo menos nos últimos 60 dias não recebemos eventos de telemetria da secundária; eles não aparecem no relatório baixado no Frota. Já na agropecuária o último recebido foi em 10/11/2025; e foi apenas esse evento nos últimos 60 dias. O número está extremamente baixo e não condiz com a realidade da operação BRF. Gentileza verificar. 
 
@@ -1390,7 +1388,9 @@ Obrigada!
 20/02/2026 - Não resolvido. Baixei o relatório hoje novamente e ao verificar os eventos da Agro e Secundária; não houve atribuição de eventos por integração nos últimos 60 dias.
 
 
-23/02/2026 - Ainda não resolvido. Baixei o relatório hoje novamente e ao verificar os eventos da Agro e Secundária; não houve atribuição de eventos por integração nos últimos 60 dias. Planilha de evidência anexa.";Correção (Bugs)
+23/02/2026 - Ainda não resolvido. Baixei o relatório hoje novamente e ao verificar os eventos da Agro e Secundária; não houve atribuição de eventos por integração nos últimos 60 dias. Planilha de evidência anexa.
+
+10/03/2026 - Olá; bom dia! Estamos desde o dia 05/03 sem receber eventos por integração da secundária. Além disso; não recebemos eventos nos dias 6 e 7/03. Relatório anexo. ";Correção (Bugs)
 6030;18676 - Erro ao realizar o bloqueio temporário;"Percebemos que; no sistema Frota Legal; não estamos mais conseguindo bloquear temporariamente uma placa que já está com o status de bloqueada. No nosso time; usamos esse bloqueio temporário para placas já ""bloqueadas""; pois se trata de um tipo de bloqueio diferente.
  
 O bloqueio temporário impede o veículo de sair de qualquer local e só é liberado após nossa aprovação e retirada do bloqueio. Já o bloqueio no status ""bloqueado""; permitindo que o veículo realize as atividades; caso seja feita uma inspeção.
@@ -1640,7 +1640,7 @@ Justificar com base em um número de dias configurável (flexível); ou
 Remover a limitação de prazo; permitindo justificativa sem restrição de dias.
 
 Essa melhoria garantirá maior aderência aos processos e evitará bloqueios em casos excepcionais.";Frota Legal - Correções e Ajustes;2025-11-25T12:30:02Z;thayna.santos@demarco.com.br;Caixa de Entrada;2025-11-25T11:25:19Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
-8118;20392 - Erro Api Veolink ;"Precisamos validar um possível erro na API Veolink. Alguns dados não estão sendo retornados corretamente para veículos inativos. Em várias consultas; a API não envia as informações esperadas ou devolve um objeto vazio. É necessário verificar se existe alguma falha no retorno da API ou alguma regra específica que esteja bloqueando os dados quando o veículo está inativo. Segue token da API ";Frota Legal - Correções e Ajustes;2025-11-25T20:00:55Z;marques.pereira@demarco.com.br;Em Validação Produção;2026-03-05T11:29:36Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+8118;20392 - Erro Api Veolink ;"Precisamos validar um possível erro na API Veolink. Alguns dados não estão sendo retornados corretamente para veículos inativos. Em várias consultas; a API não envia as informações esperadas ou devolve um objeto vazio. É necessário verificar se existe alguma falha no retorno da API ou alguma regra específica que esteja bloqueando os dados quando o veículo está inativo. Segue token da API ";Frota Legal - Correções e Ajustes;2025-11-25T20:00:55Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2026-03-05T03:00:36Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;ok;Correção (Bugs)
 8147;Erro | Filtros de Unidades e Quantidade de Relatos 'Incompleta' na Validação de Relatos;"O usuário anapaulapinkovaymurici@gmail.com está com acesso a todas as operações/unidades do transportador MURICI; porém nos filtros de unidade na página de validação de relatos aparece somente a opção Line Haul. 
 
 Na operação Line Haul não há nenhum relato pendente de validação; por isso aparece 0. Mas; nas outras unidades que o usuário tem acesso; há relatos pendentes que não aparecem.
@@ -1658,7 +1658,7 @@ Quando estamos subindo ocorrências no dia seguinte o alerta não está sendo en
 
 Para iniciarmos o piloto da Onisys no Frota Legal; pedimos a gentileza de incluir a TRANSRIMA TRANSPORTES EIRELI para os testes diários; assim como já está acontecendo no DMPeople.
 
-Obrigada!";Frota Legal - Correções e Ajustes;2025-12-02T19:12:13Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-02-04T03:00:10Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Boa tarde! 
+Obrigada!";Frota Legal - Correções e Ajustes;2025-12-02T19:12:13Z;sabrina.alcantara@demarco.com.br;Em Andamento;2026-03-09T17:39:01Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Boa tarde! 
 Estão subindo outros eventos de outras transportadoras que não estão na API da Onisys; retiramos um relatório hoje e ainda estão sendo atribuídos eventos indevidos; a única transportadora teste no Frota Legal é a FLESCH MULTISSETORIAL LTDA; as demais da atividade Primária ainda não devem receber eventos por integração.
 Card onde essa situação está sendo tratada também: #20850 - Atribuíção indevida de eventos
 
@@ -1679,7 +1679,7 @@ Gostaríamos de solicitar que seja corrigido para vir apenas os condutores que s
 
 Hoje estão vindo os condutores que saíram da faixa verde desde o início do ano; com a lista extensa fica difícil realizar a gestão.
 
-Obrigada!";Frota Legal - Correções e Ajustes;2025-12-04T12:36:17Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-03-04T20:31:16Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Reprovado; pois estamos sem receber desde o dia 12/02 e não havia sido feita a correção.";Correção (Bugs)
+Obrigada!";Frota Legal - Correções e Ajustes;2025-12-04T12:36:17Z;sabrina.alcantara@demarco.com.br;Concluído ou Descontinuado;2026-03-09T03:00:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;Alerta reestabelecidos. Obrigada!;Correção (Bugs)
 8539;Alteração na Integração com SAP;"Possuímos uma integração (API) do sistema Frota com o SAP da BRF para transmissão do status dos colaboradores (liberado ou bloqueado). Após a migração de sistemas; o comportamento da integração passou por ajustes e deixou de funcionar como era anteriormente.
 
 Comportamento Atual da Integração:
@@ -1738,7 +1738,7 @@ Poderiam verificar e corrigir essa pendência; por favor";Frota Legal - Correç�
 ";Correção (Bugs)
 8760;20849 - Erro leitura de Qrocde ;"Ao acessar o aplicativo e selecionar o ícone de câmera para realizar a leitura do QR Code; o sistema não conclui a ação esperada e apresenta uma mensagem de erro; interrompendo o fluxo normal de uso da funcionalidade.
 
-O erro ocorre imediatamente após a tentativa de leitura do QR Code; impossibilitando a validação das informações; conforme evidenciado nas imagens anexas ao card.";Frota Legal - Correções e Ajustes;2025-12-16T17:06:34Z;marques.pereira@demarco.com.br;Em Andamento;2026-02-05T12:47:49Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;1;"Refeito os testes; o erro persiste no sistema IOS; conforme imagem anexa antes. Para Android o erro aparece mas o processo conclui.";Correção (Bugs)
+O erro ocorre imediatamente após a tentativa de leitura do QR Code; impossibilitando a validação das informações; conforme evidenciado nas imagens anexas ao card.";Frota Legal - Correções e Ajustes;2025-12-16T17:06:34Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2026-03-10T03:00:09Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;ok;Correção (Bugs)
 8765;#22159 - Atribuíção indevida de eventos ONISYS [Retorno #20850];"Pessoal; preciso que sejam verificados e investigados os eventos dos condutores que sinalizei em amarelo na planilha anexada; pois são eventos indevidos; pois ainda não há a integração em definitivo dos eventos para os condutores da atividade Primária e acabam gerando bloqueios indevidos.
 
 Precisamos saber como esses desvios estão entrando no prontuário dos condutores e que não sejam atribuídos mais. ";Frota Legal - Correções e Ajustes;2025-12-16T18:45:40Z;thais.oliveira@demarco.com.br;Pronto para Atuar;2026-03-04T03:00:13Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;1;"Pessoal; o erro permanece; estão subindo outros eventos de outras transportadoras que não estão na API da Onisys; retirei um relatório hoje e ainda estão sendo atribuídos eventos indevidos; a única transportadora teste no Frota Legal é a FLESCH MULTISSETORIAL LTDA; as demais da atividade Primária ainda não devem receber eventos por integração.";Correção (Bugs)
@@ -1834,7 +1834,7 @@ Cenário Reproduzido:
 Impacto:
 Esse erro pode comprometer a integridade dos processos; permitindo que usuários com permissões restritas realizem ações que deveriam ser exclusivas de demarco e gera impacto na receita e faturamento. 
 ";Frota Legal - Correções e Ajustes;2026-01-23T18:27:49Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2026-03-02T14:48:37Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;"ok; corrigido em produção. ";Correção (Bugs)
-9275;#21446 - Ajuste de Situação de Condutor;"Prezados; havia realizado o expurgo do condutor CHARLES LUIZ DA SILVA GOMES - 61730882234; da empresa TRANSPORTES E ARMAZENAGEM ZILLI LTDA - Cd Belém - TRANSPORTES E ARMAZENAGEM ZILLI LTDA; que era para ter ido para a faixa azul e estar com 100 pontos além de retirado a pendencia da entrevista de fadiga. ";Frota Legal - Correções e Ajustes;2026-01-23T19:06:46Z;thais.oliveira@demarco.com.br;Impedimento;2026-02-27T03:00:35Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;1;"Pessoal; como o erro persiste preciso que seja corrigido e retirada a pendencia da entrevista de fadiga do condutor CHARLES LUIZ DA SILVA GOMES	61730882234.";Correção (Bugs)
+9275;#21446 - Ajuste de Situação de Condutor;"Prezados; havia realizado o expurgo do condutor CHARLES LUIZ DA SILVA GOMES - 61730882234; da empresa TRANSPORTES E ARMAZENAGEM ZILLI LTDA - Cd Belém - TRANSPORTES E ARMAZENAGEM ZILLI LTDA; que era para ter ido para a faixa azul e estar com 100 pontos além de retirado a pendencia da entrevista de fadiga. ";Frota Legal - Correções e Ajustes;2026-01-23T19:06:46Z;thais.oliveira@demarco.com.br;Concluído ou Descontinuado;2026-03-10T03:00:47Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;4;"Problema resolvido; obrigada!";Correção (Bugs)
 9285;#21437 - Erro no recebimento do Token;"Bom dia!
 O usuário ahgtransportes@hotmail.com não está recebendo token para acesso ao sistema Frota Legal.
 Da última vez que ocorreu; vocês apagaram o usuário do banco; nós criamos novamente e foi regularizado. Gentileza proceder com a exclusão.
@@ -1848,7 +1848,7 @@ Ao abrir um card para o time de Analytics; foi informado pelo Lucas Colares que 
 9371;#21478 - CNH vencida e colaborador liberado;"Bom dia!
 Condutor com CNH vencida desde 25-01-26 e o sistema não está bloqueando; mesmo subindo o documento novamente ou consultando a CNH de forma avulsa.
 Cliente: BRF Frota Leve
-Igor Bruno; Matrícula: 183085";Frota Legal - Correções e Ajustes;2026-01-29T12:56:53Z;gabriela.correa@demarco.com.br;Em Andamento;2026-02-19T19:24:50Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;1;Boa tarde! O erro permanece. Os dois colaboradores estão liberados com a CNH vencida.;Correção (Bugs)
+Igor Bruno; Matrícula: 183085";Frota Legal - Correções e Ajustes;2026-01-29T12:56:53Z;gabriela.correa@demarco.com.br;Concluído ou Descontinuado;2026-03-10T13:27:48Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;1;Boa tarde! O erro permanece. Os dois colaboradores estão liberados com a CNH vencida.;Correção (Bugs)
 9377;#21504 - Erro prontuário do condutor - Ocorrências não estão sendo expurgados ;"Ao realizar o input de algumas ocorrências no prontuário do condutor; ao justificar o evento; a pontuação não foi retirada da pontuação ponderada; embora o evento conste como justificado no histórico.
 
 Quando realizamos o expurgo (exclusão do evento); o registro deixa de aparecer no histórico; porém; a pontuação ponderada permanece inalterada. Além disso; ao exportar o relatório em Excel; o evento excluído continua constando no arquivo; o que não deveria ocorrer.
@@ -1868,7 +1868,9 @@ Identificamos que o sistema está mantendo a pendência de entrevista de fadiga;
 
 Segue exemplo:
 
-JOSE ADEMIR MARQUES JUNIOR	93439709272	";Frota Legal - Correções e Ajustes;2026-02-02T14:21:25Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-03-05T11:29:43Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+JOSE ADEMIR MARQUES JUNIOR	93439709272	";Frota Legal - Correções e Ajustes;2026-02-02T14:21:25Z;sabrina.alcantara@demarco.com.br;Em Andamento;2026-03-09T19:01:26Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Bom dia; Gi! 
+O condutor permanece com pendência da entrevista: https://jam.dev/c/c2dbfbaa-8dec-4d61-a727-d5d106a6f131
+Obrigada!";Correção (Bugs)
 9415;"#21560 - Erro - Inconsistência na classificação de documentos (aprovados; pré-aprovados e reprovados)";"Olá! 
 
 Ao verificar os dados de documentos para construção do dashboard para a frota SPOT; verificamos com o time de DL que os dados de documentos que constam no sistema/relatório prontuário extraído do sistema; não estão batendo com as informações do banco de dados. 
@@ -1880,7 +1882,8 @@ cpf 05429580589
 
 No relatório extraído do sistema está vindo com aguardando; porém no banco está vindo como aprovado. Prints anexos. 
 
-O time de DL informou que acreditam ser um problema na tabela de verificacaodocumentocondutor que deveria estar como 6 no resultado.";Frota Legal - Correções e Ajustes;2026-02-03T13:06:56Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-02-26T14:57:58Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+O time de DL informou que acreditam ser um problema na tabela de verificacaodocumentocondutor que deveria estar como 6 no resultado.";Frota Legal - Correções e Ajustes;2026-02-03T13:06:56Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-02-26T03:00:58Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Olá; bom dia! 
+Ainda temos diverências. Seguem alguns exemplos no print anexo. Obrigada!";Correção (Bugs)
 9417;#21562 - Erro - Divergência nos números de status e faixas dos colaboradores;"Olá;
 
 Durante a validação dos dados de condutores liberados; bloqueados; em atenção e faixas de classificação; utilizados na construção do dashboard da frota SPOT; alinhamos com o time de DL e identificamos divergências entre os números apresentados no sistema e os dados disponibilizados no banco de dados.
@@ -1911,7 +1914,32 @@ Quantidade total: 8.427
 
 Gentileza verificar a causa dessas divergências entre o sistema e o banco de dados; bem como realizar os ajustes necessários.
 
-O print do dashboard e o relatório utilizado para comparação seguem anexos.";Frota Legal - Correções e Ajustes;2026-02-03T13:58:05Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-02-26T14:58:39Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+O print do dashboard e o relatório utilizado para comparação seguem anexos.";Frota Legal - Correções e Ajustes;2026-02-03T13:58:05Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-02-26T03:00:39Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Evidências teste ID #9417 #21562 - Erro - Divergência nos números de status e faixas dos colaboradores
+ 
+Ainda existem divergências; gentileza verificar. Evidências anexas.
+ 
+Comparação realizada com dashboard atualizado em 10/03/2026 às 07:34h com o relatório do prontuário extraído em 10/03/2026 às 10:22h
+ 
+Dashboard
+Liberados: 3.128
+Bloqueados: 5.524
+Atenção: 37
+Faixa azul: 8.102
+Faixa verde: 189
+Faixa amarela: 86
+Faixa vermelha: 47
+Faixa preta: 265
+Quantidade total de condutores: 8.689
+Frota
+Liberados: 3.130
+Bloqueados: 5.357
+Atenção: 37
+Faixa azul: 7.919
+Faixa verde: 205
+Faixa amarela: 85
+Faixa vermelha: 47
+Faixa preta: 268
+Quantidade total: 8.524";Correção (Bugs)
 9418;#21615 - Histórico do colaborador não salvo no banco de dados;"Olá! 
 
 Verificamos juntamente com o time de DL durante a construção do dash para frota SPOT que os dados do histórico dos condutores não ficam salvos no banco; temos apenas os dados da admissão atual; mas não aparece demissão/inativação; outras movimentações e não salva os dados das admissões passadas.
@@ -1926,7 +1954,7 @@ Porém; como o que foi depositado no sistema ""pertence"" à eles; gostariam de 
 Além disso; após a inclusão do campo; é necessário que essa informação seja disponibilizada em nossa API para o LOGAN; contemplando AMBEV; AMBEV REVENDA e SPOT T1.
 O campo para inclusão dessa informação no cadastro do veículo deve ser implementado nos três ambientes.";Frota Legal - Correções e Ajustes;2026-02-05T20:01:42Z;stefane.cordeiro@demarco.com.br;Concluído ou Descontinuado;2026-02-10T20:11:54Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9479;#21662 - Erro ao realizar check list app;"O pessoal esta realizando checklist e no app fica tudo ok; mas não reflete no sistema
-usuário do vídeo: juliana.rocha@losungexpress.com.br";Frota Legal - Correções e Ajustes;2026-02-06T15:42:32Z;larice.nunes@demarco.com.br;Em Andamento;2026-03-04T19:57:59Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;1;"O erro voltou a acontecer no acesso da  jordaniasilva@ex.gerdau.com placa SHV-2A21
+usuário do vídeo: juliana.rocha@losungexpress.com.br";Frota Legal - Correções e Ajustes;2026-02-06T15:42:32Z;larice.nunes@demarco.com.br;Em Validação Produção;2026-03-12T16:41:50Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;;"O erro voltou a acontecer no acesso da  jordaniasilva@ex.gerdau.com placa SHV-2A21
 e com essas placas TCT0E78; SGL8A21; SGE6H68; SGE6H63; SGEAJ70 e SGE3F89";Correção (Bugs)
 9496;#21682 - Erro App Condutores - Checklists não aparecem;"Pessoal; erro acontecendo para TODOS os condutores da Martins: equipamentos estão bloqueados pela falta de checklist de saída e/ou de chegada mas o checklist não aparece para os condutores; sendo que estão com a autorização correta para fazê-lo. Cliente informo que o erro começou na quinta-feira dia 05/02.";Frota Legal - Correções e Ajustes;2026-02-09T15:11:41Z;hannah.moreira@demarco.com.br;Concluído ou Descontinuado;2026-02-10T03:00:41Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;Erro solucionado na versão 2.6.16! Obrigada pessoal;Correção (Bugs)
 9507;#21688 - Dashboard com placas inativas no filtro de ativas;"Boa tarde!
@@ -1943,7 +1971,7 @@ Ainda no período de jan/26; constam 6 placas pendentes da transportadora AH G T
 
 Dessa forma; solicitamos a verificação do filtro/apuração dessas informações no dashboard para equipe de DL; mas nos direcionaram a vocês pois nos foi informado que existe uma tabela criada pelo time do frota; que carrega o histórico dos equipamentos  da brf facilities; essa tabela está vindo sem dados para os equipamentos citados e para outros também. 
 
-Gentileza verificar o porque de não haver o histórico e se for o caso recarregar a tabela.";Frota Legal - Correções e Ajustes;2026-02-09T18:48:47Z;lilian.rodrigues@demarco.com.br;Em Andamento;2026-02-23T19:00:21Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Correção (Bugs)
+Gentileza verificar o porque de não haver o histórico e se for o caso recarregar a tabela.";Frota Legal - Correções e Ajustes;2026-02-09T18:48:47Z;lilian.rodrigues@demarco.com.br;Concluído ou Descontinuado;2026-03-12T19:32:03Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Correção (Bugs)
 9508;#21694 - Falha no envio de token;"Boa tarde! 
 
 Gentileza verificar o usuário supervisao.operacoes@aratuservice.com.br não está recebendo o token de acesso; nem conseguindo alterar a senha.";Frota Legal - Correções e Ajustes;2026-02-09T18:55:16Z;lilian.rodrigues@demarco.com.br;Em Andamento;2026-03-04T20:41:43Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Correção (Bugs)
@@ -1966,7 +1994,16 @@ Solicitamos que qualquer alteração na tela do cadastro de condutores gere bloq
 Alteramos o perfil do usuário e o mesmo permanece com os acessos do antigo perfil; mesmo após algumas horas; após limpar cache; entrar e sair do app diversas vezes.
 Sendo assim; o usuário com acesso de auditoria foi alterado para transportador e não foi alterado os dados no app; somente WEB.
 Essa alteração acontece porque alteramos o perfil de transportador para Inspeções fora do período no mês de auditoria. 
-Além disso o teste no Android Redmi Note 11 (2022); nem aparece a inspeção em nenhum momento; sendo que no Iphone aparece e da o erro de permanecer com o acesso antigo.";Frota Legal - Correções e Ajustes;2026-02-19T13:26:14Z;thayna.santos@demarco.com.br;Para Teste (Homologação);2026-03-05T19:01:08Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;Correção (Bugs)
+Além disso o teste no Android Redmi Note 11 (2022); nem aparece a inspeção em nenhum momento; sendo que no Iphone aparece e da o erro de permanecer com o acesso antigo.";Frota Legal - Correções e Ajustes;2026-02-19T13:26:14Z;thayna.santos@demarco.com.br;Pronto p/ Publicar em Produção;2026-03-12T19:39:54Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;1;"Seguimos o processo do teste em Android e IOS igual informado abaixo:
+Usuário transportadora: Funcionou nos dois celulares
+Placa: KQR2D69 aparece em inspeções (check do fornecedor); renovar inspeções não aparece nada;
+Placa: QZH8G51 em inspeções não aparece nada e renovar inspeções aparece (check do fornecedor);
+Usuário Auditoria: Não funcionou conforme prints em anexo; em nenhum dos celulares.
+Placa: KQR2D69 aparece em inspeções (check da auditoria); renovar inspeções não aparece nada;
+Placa: QZH8G51 em inspeções não aparece nada e renovar inspeções aparece (check da auditoria);
+Usuário Inspeções fora do período: Funcionou somente no IOS.
+Placa: KQR2D69 aparece em inspeções (check do fornecedor); renovar inspeções não aparece nada;
+Placa: QZH8G51 em inspeções não aparece nada e renovar inspeções aparece (check do fornecedor);";Correção (Bugs)
 9573;Melhoria - Implementação de Exportação de Inspeção em PDF com Imagens;"* Incluir botão ""Baixar PDF"" ao lado do botão de Excel já existente.
 
 * As fotos devem aparecer logo abaixo da respectiva resposta ou em um anexo ao final do documento com referência à pergunta.
@@ -2054,7 +2091,7 @@ Exemplos:
 791803
 792085
 588817
-727847";Frota Legal - Correções e Ajustes;2026-02-25T19:15:35Z;thayna.santos@demarco.com.br;Em Andamento;2026-03-04T20:46:50Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Correção (Bugs)
+727847";Frota Legal - Correções e Ajustes;2026-02-25T19:15:35Z;thayna.santos@demarco.com.br;Em Validação Produção;2026-03-12T19:35:09Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;Correção (Bugs)
 9710;#21997 - ERRO: Transportadores não aparecem no cadastro de condutores e veiculos;"Recebemos relatos de clientes informando que; ao tentarem vincular o transportador ao cadastro do condutor ou do veículo; o sistema não exibe a lista de transportadores. Dessa forma; o cliente não consegue salvar o cadastro; pois esse é um campo obrigatório.
 
 O erro ocorre nos seguintes ambientes:
@@ -2073,8 +2110,8 @@ Estamos identificando uma falha na integração com a gerenciadora de risco no s
 
 Verificamos que não houve integração no dia de hoje. As últimas integrações ocorreram ontem; em 25/02/2026.
 
-Poderiam; por gentileza; verificar o ocorrido?";Frota Legal - Correções e Ajustes;2026-02-26T15:43:54Z;adriele.ribeiro@demarco.com.br;Em Validação Produção;2026-02-27T14:28:27Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;Correção (Bugs)
-9721;#22068 - Erro ao salvar cadastro de Transportador - sistema não indica erro nos campos de telefone;"Pessoal; já verificamos há algum tempos e em diferentes clientes; que muitas vezes; ao tentar salvar o cadastro de um transportador; o cadastro não salva mas também não apresenta mensagem de erro indicando o que poderia ser. Por ""tentativa e erro"" descobrimos que isso acontece normalmente com algum tipo de erro nos campos de Telefone e/ou Celular. Limpamos o campo; colocamos os dados de novo e o cadastro salva corretamente. Porém; o certo seria o sistema indicar que há um erro nestes campos para que todos os usuários consigam salvar os cadastros corretamente.";Frota Legal - Correções e Ajustes;2026-02-27T11:17:59Z;hannah.moreira@demarco.com.br;Pronto para Atuar;2026-03-02T03:00:56Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Correção (Bugs)
+Poderiam; por gentileza; verificar o ocorrido?";Frota Legal - Correções e Ajustes;2026-02-26T15:43:54Z;adriele.ribeiro@demarco.com.br;Concluído ou Descontinuado;2026-02-27T03:00:27Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;"Olá; tudo bem? Fiz a analise do dia 27/02 para cá e esta normalizado.";Correção (Bugs)
+9721;#22068 - Erro ao salvar cadastro de Transportador - sistema não indica erro nos campos de telefone;"Pessoal; já verificamos há algum tempos e em diferentes clientes; que muitas vezes; ao tentar salvar o cadastro de um transportador; o cadastro não salva mas também não apresenta mensagem de erro indicando o que poderia ser. Por ""tentativa e erro"" descobrimos que isso acontece normalmente com algum tipo de erro nos campos de Telefone e/ou Celular. Limpamos o campo; colocamos os dados de novo e o cadastro salva corretamente. Porém; o certo seria o sistema indicar que há um erro nestes campos para que todos os usuários consigam salvar os cadastros corretamente.";Frota Legal - Correções e Ajustes;2026-02-27T11:17:59Z;hannah.moreira@demarco.com.br;Para Teste (Homologação);2026-03-12T19:02:14Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Correção (Bugs)
 9722;#22048 - Habilitar consulta CNH via DMGateway – Ambiente Grupo Vyas;"Precisamos habilitar; no ambiente do Grupo Vyas; a consulta via DMGateway para ativação da API de CNH; responsável por realizar a integração de consulta junto à Mônaco.
 Solicitamos; por gentileza; que após a habilitação da API; nos confirmem quando a ativação for concluída para que possamos validar o funcionamento.";Frota Legal - Correções e Ajustes;2026-02-27T13:40:49Z;fernanda.mariante@demarco.com.br;Pronto para Atuar;2026-02-27T03:00:04Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9732;#22090 - ERRO: Falha na integração do SAP FROTA;"Ao verificar as integrações do SAP no sistema Frota; identifiquei que alguns condutores estão apresentando falha no SAP.
@@ -2083,7 +2120,7 @@ Para minimizar o impacto; quando detectamos essa inconsistência; realizamos um 
 
 Dessa forma; solicito; por gentileza; a verificação da causa dessa inconsistência; a fim de evitar impactos na operação.";Frota Legal - Correções e Ajustes;2026-02-27T16:34:40Z;adriele.ribeiro@demarco.com.br;Em Validação Produção;2026-03-04T21:02:38Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
 9754;#22083 - Erro Retorno - #9676 – #21919 - ERRO: Checklists não aparecem no app;"#9676 – #21919 - ERRO: Checklists não aparecem no app o erro voltou carlos.henrique@fsfx.com.br. 
- ";Frota Legal - Correções e Ajustes;2026-03-02T14:49:27Z;marques.pereira@demarco.com.br;Impedimento;2026-03-03T03:00:24Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"ainda com erro segue mais um caso  tatiane.silva3@gerdau.com.br e alan.jorge@projetohexagono.com
+ ";Frota Legal - Correções e Ajustes;2026-03-02T14:49:27Z;marques.pereira@demarco.com.br;Em Validação Produção;2026-03-09T18:53:56Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"ainda com erro segue mais um caso  tatiane.silva3@gerdau.com.br e alan.jorge@projetohexagono.com
 ";Correção (Bugs)
 9761;#22113 - ERRO: CNH valida com status vencendo no FROTA;"Olá; tudo bem?
 
@@ -2091,7 +2128,7 @@ Identificamos que a maioria dos condutores está com o status de “CNH vencendo
 
 As CNHs constam como “vencendo”; porém possuem data de vencimento para meses posteriores; não correspondendo ao status apresentado.
 
-Peço; por gentileza; a verificação e correção dessa inconsistência; a fim de evitar impactos no cadastro e na operação dos condutores.";Frota Legal - Correções e Ajustes;2026-03-03T12:58:22Z;adriele.ribeiro@demarco.com.br;Para Teste (Homologação);2026-03-05T18:49:16Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+Peço; por gentileza; a verificação e correção dessa inconsistência; a fim de evitar impactos no cadastro e na operação dos condutores.";Frota Legal - Correções e Ajustes;2026-03-03T12:58:22Z;adriele.ribeiro@demarco.com.br;Pronto p/ Publicar em Produção;2026-03-12T19:36:29Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
 9774;Status Atenção na validação do Checklist;"Atualmente; quando o checklist está aguardando validação; ele permanece com o status “atenção”. Porém; considerando a lógica já aplicada aos documentos; entendemos que o status mais adequado nesse cenário seria “bloqueado”; até que a validação seja efetivamente concluída.
 
 A proposta é:
@@ -2119,8 +2156,17 @@ https://jam.dev/c/ca01adcc-3740-4578-934f-5fe1a373432b
 
 Ambiente SPOT T1
 
-https://jam.dev/c/ca01adcc-3740-4578-934f-5fe1a373432b";Frota Legal - Correções e Ajustes;2026-03-04T17:41:12Z;tallison.jesus@demarco.com.br;Para Teste (Homologação);2026-03-05T18:47:33Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;Correção (Bugs)
-9788;"#22176 -ERRO: Mensagem ""Verifique Console"" ao tentar cadastrar condutores [Novo caso]";"Preciso que seja visto esse erro no momento de salvar os dados de cadastro dos condutores; pois a transportadora BMQLOG TRANSPORTES DE CARGAS EIRELI não consegue cadastrar seus condutores devido ao erro ""ERRO AO SALVAR CONDUTOR. VERIFIQUE O CONSOLE.""";Frota Legal - Correções e Ajustes;2026-03-05T14:35:58Z;thais.oliveira@demarco.com.br;Pronto para Atuar;2026-03-05T03:00:47Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Correção (Bugs)
+https://jam.dev/c/ca01adcc-3740-4578-934f-5fe1a373432b";Frota Legal - Correções e Ajustes;2026-03-04T17:41:12Z;tallison.jesus@demarco.com.br;Concluído ou Descontinuado;2026-03-06T03:00:49Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;5;Obrigado;Correção (Bugs)
+9788;"#22176 -ERRO: Mensagem ""Verifique Console"" ao tentar cadastrar condutores [Novo caso]";"Preciso que seja visto esse erro no momento de salvar os dados de cadastro dos condutores; pois a transportadora BMQLOG TRANSPORTES DE CARGAS EIRELI não consegue cadastrar seus condutores devido ao erro ""ERRO AO SALVAR CONDUTOR. VERIFIQUE O CONSOLE.""";Frota Legal - Correções e Ajustes;2026-03-05T14:35:58Z;thais.oliveira@demarco.com.br;Em Validação Produção;2026-03-09T18:55:33Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;Correção (Bugs)
 9793;#22183 - ERRO: Relatório Prontuário do Transportador;"Ao realizar a exportação da base de dados do Prontuário do Transportador no ambiente do cliente TIROLEZ; foi identificado que a descrição ""Atenção"" no campo Situação está sendo exibida/registrada como ""Excel.Atenção"".
 
 No campo *ClienteImpactado selecionamos todos porque não havia a opção para o cliente TIROLEZ; mas o erro é referente a este cliente.";Frota Legal - Correções e Ajustes;2026-03-05T19:32:04Z;maike.silva@demarco.com.br;Pronto para Atuar;2026-03-05T03:00:36Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Correção (Bugs)
+9815;Gerar novo token API Demarco X Veolink ;"O token de integração da API Demarco x Veolink possui validade até 16/04.
+
+Solicitamos; por gentileza; a geração de um novo token; preferencialmente com validade anual; considerando que a validade semestral não é usual para as operações e pode gerar recorrência de intervenções no processo de integração.";Frota Legal - Correções e Ajustes;2026-03-10T10:49:12Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-10T10:45:47Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+9826;Alterar campo de foto e e-mail ao realizar transferência  de Transportadora e Unidade ;"Atualmente; quando o cliente vai transferir um colaborador ou uma placa de transportadora; se o colaborador ou a placa possuir foto; a transferência ocorre normalmente. Porém; como a foto é um item obrigatório se não possuir foto; o sistema não permite salvar a alteração.
+
+A solicitação é que o campo ""Foto""  e campo ""E-mail"" fiquem liberados para ser alterados ao realizar a transferência. ";Frota Legal - Correções e Ajustes;2026-03-11T18:18:48Z;tallison.jesus@demarco.com.br;Caixa de Entrada;2026-03-11T17:43:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+9827;Ajuste | Inclusão de coluna 'E-mail' no Relatório de Cadastro de Condutor;"Boa tarde; Giselle!
+
+Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatório de Cadastro do Condutor.";Frota Legal - Correções e Ajustes;2026-03-11T19:20:59Z;gabrielle.andrade@demarco.com.br;Caixa de Entrada;2026-03-11T19:09:53Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
