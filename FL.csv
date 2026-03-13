@@ -1868,9 +1868,7 @@ Identificamos que o sistema está mantendo a pendência de entrevista de fadiga;
 
 Segue exemplo:
 
-JOSE ADEMIR MARQUES JUNIOR	93439709272	";Frota Legal - Correções e Ajustes;2026-02-02T14:21:25Z;sabrina.alcantara@demarco.com.br;Em Andamento;2026-03-09T19:01:26Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Bom dia; Gi! 
-O condutor permanece com pendência da entrevista: https://jam.dev/c/c2dbfbaa-8dec-4d61-a727-d5d106a6f131
-Obrigada!";Correção (Bugs)
+JOSE ADEMIR MARQUES JUNIOR	93439709272	";Frota Legal - Correções e Ajustes;2026-02-02T14:21:25Z;sabrina.alcantara@demarco.com.br;Concluído ou Descontinuado;2026-03-13T03:00:15Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;Oi Gi! Certinho! Muito obrigada!;Correção (Bugs)
 9415;"#21560 - Erro - Inconsistência na classificação de documentos (aprovados; pré-aprovados e reprovados)";"Olá! 
 
 Ao verificar os dados de documentos para construção do dashboard para a frota SPOT; verificamos com o time de DL que os dados de documentos que constam no sistema/relatório prontuário extraído do sistema; não estão batendo com as informações do banco de dados. 
@@ -1994,7 +1992,7 @@ Solicitamos que qualquer alteração na tela do cadastro de condutores gere bloq
 Alteramos o perfil do usuário e o mesmo permanece com os acessos do antigo perfil; mesmo após algumas horas; após limpar cache; entrar e sair do app diversas vezes.
 Sendo assim; o usuário com acesso de auditoria foi alterado para transportador e não foi alterado os dados no app; somente WEB.
 Essa alteração acontece porque alteramos o perfil de transportador para Inspeções fora do período no mês de auditoria. 
-Além disso o teste no Android Redmi Note 11 (2022); nem aparece a inspeção em nenhum momento; sendo que no Iphone aparece e da o erro de permanecer com o acesso antigo.";Frota Legal - Correções e Ajustes;2026-02-19T13:26:14Z;thayna.santos@demarco.com.br;Pronto p/ Publicar em Produção;2026-03-12T19:39:54Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;1;"Seguimos o processo do teste em Android e IOS igual informado abaixo:
+Além disso o teste no Android Redmi Note 11 (2022); nem aparece a inspeção em nenhum momento; sendo que no Iphone aparece e da o erro de permanecer com o acesso antigo.";Frota Legal - Correções e Ajustes;2026-02-19T13:26:14Z;thayna.santos@demarco.com.br;Concluído ou Descontinuado;2026-03-13T14:08:08Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;1;"Seguimos o processo do teste em Android e IOS igual informado abaixo:
 Usuário transportadora: Funcionou nos dois celulares
 Placa: KQR2D69 aparece em inspeções (check do fornecedor); renovar inspeções não aparece nada;
 Placa: QZH8G51 em inspeções não aparece nada e renovar inspeções aparece (check do fornecedor);
@@ -2091,7 +2089,7 @@ Exemplos:
 791803
 792085
 588817
-727847";Frota Legal - Correções e Ajustes;2026-02-25T19:15:35Z;thayna.santos@demarco.com.br;Em Validação Produção;2026-03-12T19:35:09Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;Correção (Bugs)
+727847";Frota Legal - Correções e Ajustes;2026-02-25T19:15:35Z;thayna.santos@demarco.com.br;Impedimento;2026-03-12T03:00:09Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;1;Permanece com o erro.;Correção (Bugs)
 9710;#21997 - ERRO: Transportadores não aparecem no cadastro de condutores e veiculos;"Recebemos relatos de clientes informando que; ao tentarem vincular o transportador ao cadastro do condutor ou do veículo; o sistema não exibe a lista de transportadores. Dessa forma; o cliente não consegue salvar o cadastro; pois esse é um campo obrigatório.
 
 O erro ocorre nos seguintes ambientes:
@@ -2118,17 +2116,16 @@ Solicitamos; por gentileza; que após a habilitação da API; nos confirmem quan
 
 Para minimizar o impacto; quando detectamos essa inconsistência; realizamos um ajuste manual; inserindo um documento e posteriormente excluindo-o para regularização. No entanto; atualmente não possuímos um relatório ou mecanismo específico que nos permita identificar esse erro de forma proativa — a falha é percebida apenas durante atendimentos ou ao consultar CPFs pontualmente.
 
-Dessa forma; solicito; por gentileza; a verificação da causa dessa inconsistência; a fim de evitar impactos na operação.";Frota Legal - Correções e Ajustes;2026-02-27T16:34:40Z;adriele.ribeiro@demarco.com.br;Em Validação Produção;2026-03-04T21:02:38Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+Dessa forma; solicito; por gentileza; a verificação da causa dessa inconsistência; a fim de evitar impactos na operação.";Frota Legal - Correções e Ajustes;2026-02-27T16:34:40Z;adriele.ribeiro@demarco.com.br;Concluído ou Descontinuado;2026-03-04T03:00:38Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;"Normalizado; obrigadaaa! ";Correção (Bugs)
 9754;#22083 - Erro Retorno - #9676 – #21919 - ERRO: Checklists não aparecem no app;"#9676 – #21919 - ERRO: Checklists não aparecem no app o erro voltou carlos.henrique@fsfx.com.br. 
- ";Frota Legal - Correções e Ajustes;2026-03-02T14:49:27Z;marques.pereira@demarco.com.br;Em Validação Produção;2026-03-09T18:53:56Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"ainda com erro segue mais um caso  tatiane.silva3@gerdau.com.br e alan.jorge@projetohexagono.com
-";Correção (Bugs)
+ ";Frota Legal - Correções e Ajustes;2026-03-02T14:49:27Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2026-03-09T03:00:56Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;card corrigido. ;Correção (Bugs)
 9761;#22113 - ERRO: CNH valida com status vencendo no FROTA;"Olá; tudo bem?
 
 Identificamos que a maioria dos condutores está com o status de “CNH vencendo”; mesmo com o documento válido já depositado no sistema e com o cadastro atualizado contendo a data correta de validade.
 
 As CNHs constam como “vencendo”; porém possuem data de vencimento para meses posteriores; não correspondendo ao status apresentado.
 
-Peço; por gentileza; a verificação e correção dessa inconsistência; a fim de evitar impactos no cadastro e na operação dos condutores.";Frota Legal - Correções e Ajustes;2026-03-03T12:58:22Z;adriele.ribeiro@demarco.com.br;Pronto p/ Publicar em Produção;2026-03-12T19:36:29Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+Peço; por gentileza; a verificação e correção dessa inconsistência; a fim de evitar impactos no cadastro e na operação dos condutores.";Frota Legal - Correções e Ajustes;2026-03-03T12:58:22Z;adriele.ribeiro@demarco.com.br;Em Validação Produção;2026-03-13T14:09:08Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
 9774;Status Atenção na validação do Checklist;"Atualmente; quando o checklist está aguardando validação; ele permanece com o status “atenção”. Porém; considerando a lógica já aplicada aos documentos; entendemos que o status mais adequado nesse cenário seria “bloqueado”; até que a validação seja efetivamente concluída.
 
 A proposta é:
