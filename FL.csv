@@ -2125,7 +2125,7 @@ Identificamos que a maioria dos condutores está com o status de “CNH vencendo
 
 As CNHs constam como “vencendo”; porém possuem data de vencimento para meses posteriores; não correspondendo ao status apresentado.
 
-Peço; por gentileza; a verificação e correção dessa inconsistência; a fim de evitar impactos no cadastro e na operação dos condutores.";Frota Legal - Correções e Ajustes;2026-03-03T12:58:22Z;adriele.ribeiro@demarco.com.br;Em Validação Produção;2026-03-13T14:09:08Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;Correção (Bugs)
+Peço; por gentileza; a verificação e correção dessa inconsistência; a fim de evitar impactos no cadastro e na operação dos condutores.";Frota Legal - Correções e Ajustes;2026-03-03T12:58:22Z;adriele.ribeiro@demarco.com.br;Concluído ou Descontinuado;2026-03-13T03:00:08Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;Normalizado! ;Correção (Bugs)
 9774;Status Atenção na validação do Checklist;"Atualmente; quando o checklist está aguardando validação; ele permanece com o status “atenção”. Porém; considerando a lógica já aplicada aos documentos; entendemos que o status mais adequado nesse cenário seria “bloqueado”; até que a validação seja efetivamente concluída.
 
 A proposta é:
@@ -2167,6 +2167,6 @@ A solicitação é que o campo ""Foto""  e campo ""E-mail"" fiquem liberados par
 9827;Ajuste | Inclusão de coluna 'E-mail' no Relatório de Cadastro de Condutor;"Boa tarde; Giselle!
 
 Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatório de Cadastro do Condutor.";Frota Legal - Correções e Ajustes;2026-03-11T19:20:59Z;gabrielle.andrade@demarco.com.br;Caixa de Entrada;2026-03-11T19:09:53Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
-9828;Erro checklist pendente porem aprovado no sistema ;"O checklist de mobilização da placa CAP5774  foi aprovado porém; o sistema ainda o apresenta como bloqueado por pendência no checklist de mobilização.
+9828;#22457 - ERRO: checklist pendente porem aprovado no sistema ;"O checklist de mobilização da placa CAP5774  foi aprovado porém; o sistema ainda o apresenta como bloqueado por pendência no checklist de mobilização.
 
-Todos os parâmetros estão configurados corretamente; porem não identificamos a raiz do problema. ";Frota Legal - Correções e Ajustes;2026-03-16T17:49:30Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-16T17:46:03Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Correção (Bugs)
+Todos os parâmetros estão configurados corretamente; porem não identificamos a raiz do problema. ";Frota Legal - Correções e Ajustes;2026-03-16T17:49:30Z;marques.pereira@demarco.com.br;Pronto para Atuar;2026-03-16T03:00:42Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Correção (Bugs)
