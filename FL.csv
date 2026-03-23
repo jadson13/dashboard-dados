@@ -1926,7 +1926,7 @@ Verificamos juntamente com o time de DL durante a construção do dash para frot
 
 Por gentileza; precisamos do histórico completo de movimentações (ocorrências; afastamento; admissão; demissão/inativação; alteração de cargo;....) de todas as admissões (atual e passadas); independente de ser da TP atual ou outra.
 
-Muito obrigada!";Frota Legal - Correções e Ajustes;2026-02-03T15:02:25Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-03-04T03:00:42Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Olá! 
+Muito obrigada!";Frota Legal - Correções e Ajustes;2026-02-03T15:02:25Z;sabrina.alcantara@demarco.com.br;Em Andamento;2026-03-23T11:30:11Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Olá! 
 Ao analisar os dados junto com a equipe de DL; pegamos como exemplo o condutor ABDON VIEIRA NASCIMENTO NETO	05429580589 e vimos que a data de admissão não aparece (planilha anexa); que seria um dos dados mais importantes do histórico. 
 
 As informações mais importantes para o histórico são:
@@ -2035,7 +2035,7 @@ Precisamos substituir o iframe atual do pipefy para este do DMNow:
 
 <iframe src=""https://dmnow.com.br/public/board/contato-frota-legal"" frameborder=""0"" style=""padding: 10px; background: #f9fafb;"" height=""500"" width=""100%""></iframe>
 
-";Frota Legal - Correções e Ajustes;2026-02-24T21:37:39Z;rodrigo@demarco.com.br;Em Validação Produção;2026-03-02T13:22:51Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;;;Ajuste (Melhorias Rápidas e Pontuais)
+";Frota Legal - Correções e Ajustes;2026-02-24T21:37:39Z;rodrigo@demarco.com.br;Concluído ou Descontinuado;2026-03-20T15:11:37Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;;;Ajuste (Melhorias Rápidas e Pontuais)
 9703;#21983 - ERRO: ao tentar realizar check list no app - losung;"Usuários juliana.rocha@losungexpress.com.br; wilame.farias@losungexpress.com.br e flavia.matos@losungexpress.com.br responsáveis por realizar os checkslist da losung estão tentando realizar os checks no app; mas aparece uma msg que a placa não esta cadastrada na unidade que eles possuem acesso; porem estão todas na losung
 Placas para teste: 
 EVL1F33	FCB0J96
@@ -2102,7 +2102,7 @@ Verificamos que não houve integração no dia de hoje. As últimas integraçõe
 Poderiam; por gentileza; verificar o ocorrido?";Frota Legal - Correções e Ajustes;2026-02-26T15:43:54Z;adriele.ribeiro@demarco.com.br;Concluído ou Descontinuado;2026-02-27T03:00:27Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;"Olá; tudo bem? Fiz a analise do dia 27/02 para cá e esta normalizado.";Correção (Bugs)
 9721;#22068 - Erro ao salvar cadastro de Transportador - sistema não indica erro nos campos de telefone;"Pessoal; já verificamos há algum tempos e em diferentes clientes; que muitas vezes; ao tentar salvar o cadastro de um transportador; o cadastro não salva mas também não apresenta mensagem de erro indicando o que poderia ser. Por ""tentativa e erro"" descobrimos que isso acontece normalmente com algum tipo de erro nos campos de Telefone e/ou Celular. Limpamos o campo; colocamos os dados de novo e o cadastro salva corretamente. Porém; o certo seria o sistema indicar que há um erro nestes campos para que todos os usuários consigam salvar os cadastros corretamente.";Frota Legal - Correções e Ajustes;2026-02-27T11:17:59Z;hannah.moreira@demarco.com.br;Em Andamento;2026-03-19T11:33:06Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Correção (Bugs)
 9722;#22048 - Habilitar consulta CNH via DMGateway – Ambiente Grupo Vyas;"Precisamos habilitar; no ambiente do Grupo Vyas; a consulta via DMGateway para ativação da API de CNH; responsável por realizar a integração de consulta junto à Mônaco.
-Solicitamos; por gentileza; que após a habilitação da API; nos confirmem quando a ativação for concluída para que possamos validar o funcionamento.";Frota Legal - Correções e Ajustes;2026-02-27T13:40:49Z;fernanda.mariante@demarco.com.br;Pronto para Atuar;2026-02-27T03:00:04Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+Solicitamos; por gentileza; que após a habilitação da API; nos confirmem quando a ativação for concluída para que possamos validar o funcionamento.";Frota Legal - Correções e Ajustes;2026-02-27T13:40:49Z;fernanda.mariante@demarco.com.br;Em Validação Produção;2026-03-20T17:42:03Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;Ajuste (Melhorias Rápidas e Pontuais)
 9732;#22090 - ERRO: Falha na integração do SAP FROTA;"Ao verificar as integrações do SAP no sistema Frota; identifiquei que alguns condutores estão apresentando falha no SAP.
 
 Para minimizar o impacto; quando detectamos essa inconsistência; realizamos um ajuste manual; inserindo um documento e posteriormente excluindo-o para regularização. No entanto; atualmente não possuímos um relatório ou mecanismo específico que nos permita identificar esse erro de forma proativa — a falha é percebida apenas durante atendimentos ou ao consultar CPFs pontualmente.
@@ -2151,15 +2151,19 @@ https://jam.dev/c/ca01adcc-3740-4578-934f-5fe1a373432b";Frota Legal - Correçõe
 9793;#22183 - ERRO: Relatório Prontuário do Transportador;"Ao realizar a exportação da base de dados do Prontuário do Transportador no ambiente do cliente TIROLEZ; foi identificado que a descrição ""Atenção"" no campo Situação está sendo exibida/registrada como ""Excel.Atenção"".
 
 No campo *ClienteImpactado selecionamos todos porque não havia a opção para o cliente TIROLEZ; mas o erro é referente a este cliente.";Frota Legal - Correções e Ajustes;2026-03-05T19:32:04Z;maike.silva@demarco.com.br;Concluído ou Descontinuado;2026-03-19T13:18:36Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;;;Correção (Bugs)
-9815;Gerar novo token API Demarco X Veolink ;"O token de integração da API Demarco x Veolink possui validade até 16/04.
+9815;#22675 - Gerar novo token API Demarco X Veolink ;"O token de integração da API Demarco x Veolink possui validade até 16/04.
 
-Solicitamos; por gentileza; a geração de um novo token; preferencialmente com validade anual; considerando que a validade semestral não é usual para as operações e pode gerar recorrência de intervenções no processo de integração.";Frota Legal - Correções e Ajustes;2026-03-10T10:49:12Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-10T10:45:47Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
-9826;Alterar campo de foto e e-mail ao realizar transferência  de Transportadora e Unidade ;"Atualmente; quando o cliente vai transferir um colaborador ou uma placa de transportadora; se o colaborador ou a placa possuir foto; a transferência ocorre normalmente. Porém; como a foto é um item obrigatório se não possuir foto; o sistema não permite salvar a alteração.
+Solicitamos; por gentileza; a geração de um novo token; preferencialmente com validade anual; considerando que a validade semestral não é usual para as operações e pode gerar recorrência de intervenções no processo de integração.";Frota Legal - Correções e Ajustes;2026-03-10T10:49:12Z;marques.pereira@demarco.com.br;Pronto para Atuar;2026-03-20T14:57:20Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+9826;Alterar campo de foto e e-mail ao realizar transferência  de Transportadora e Unidade ;"Atualmente; ao transferir um colaborador ou uma placa de transportadora; se o colaborador possuir foto e e-mail — ou se a placa possuir foto — a transferência é realizada normalmente. No entanto; como a foto e o e-mail são campos obrigatórios; o sistema não permite salvar a alteração quando essas informações estão ausentes.
 
-A solicitação é que o campo ""Foto""  e campo ""E-mail"" fiquem liberados para ser alterados ao realizar a transferência. ";Frota Legal - Correções e Ajustes;2026-03-11T18:18:48Z;tallison.jesus@demarco.com.br;Caixa de Entrada;2026-03-11T17:43:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
-9827;Ajuste | Inclusão de coluna 'E-mail' no Relatório de Cadastro de Condutor;"Boa tarde; Giselle!
+Solicita-se que os campos “Foto” e “E-mail” fiquem liberados para edição durante o processo de transferência.
 
-Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatório de Cadastro do Condutor.";Frota Legal - Correções e Ajustes;2026-03-11T19:20:59Z;gabrielle.andrade@demarco.com.br;Caixa de Entrada;2026-03-11T19:09:53Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+Observação: Essa solicitação é necessária porque ainda existem colaboradores e placas antigos no sistema que não tiveram seus cadastros atualizados; constando sem foto e/ou sem e-mail.
+
+Caso haja outra sugestão de como realizar essas transferências; fiquem à vontade para nos procurar para alinharmos as informações.";Frota Legal - Correções e Ajustes;2026-03-11T18:18:48Z;tallison.jesus@demarco.com.br;Caixa de Entrada;2026-03-11T17:43:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+9827;#22668 - Ajuste | Inclusão de coluna 'E-mail' no Relatório de Cadastro de Condutor;"Boa tarde; Giselle!
+
+Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatório de Cadastro do Condutor.";Frota Legal - Correções e Ajustes;2026-03-11T19:20:59Z;gabrielle.andrade@demarco.com.br;Pronto para Atuar;2026-03-20T14:58:29Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9828;#22457 - ERRO: checklist pendente porem aprovado no sistema ;"O checklist de mobilização da placa CAP5774  foi aprovado porém; o sistema ainda o apresenta como bloqueado por pendência no checklist de mobilização.
 
 Todos os parâmetros estão configurados corretamente; porem não identificamos a raiz do problema. ";Frota Legal - Correções e Ajustes;2026-03-16T17:49:30Z;marques.pereira@demarco.com.br;Pronto para Atuar;2026-03-16T03:00:42Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Correção (Bugs)
@@ -2177,3 +2181,42 @@ No entanto; após salvar — e mesmo ao atualizar a página — o campo continua
 
 Link JAM :
 https://jam.dev/c/10f72069-10c4-455f-a1d3-cfa4e8d6fc4d";Frota Legal - Correções e Ajustes;2026-03-17T15:43:53Z;maike.silva@demarco.com.br;Caixa de Entrada;2026-03-17T15:06:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+9835;Erro APP - Placas não aparecem para realização da inspeção;"Olá; tudo bem?
+Quando tentamos acessar as placas para realizar as inspeções sendo por (Inspeções ou Renovar Inspeções); as opções não aparece; conforme prints e vídeo em anexo.";Frota Legal - Correções e Ajustes;2026-03-20T13:20:58Z;thayna.santos@demarco.com.br;Em Análise;2026-03-20T13:43:25Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;Correção (Bugs)
+9836;Erro na Gravação de Inspeções: Dados não salvam após a conclusão no App;"Olá; tudo bem?
+O transportador executa todo o fluxo de inspeção de um veículo; preenche os campos e clica em ""Salvar/Finalizar"". O aplicativo indica que o processo foi concluído; porém a inspeção não aparece no histórico; obrigando o usuário a refazer o processo diversas vezes.";Frota Legal - Correções e Ajustes;2026-03-20T13:27:12Z;thayna.santos@demarco.com.br;Em Análise;2026-03-20T13:43:40Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;Correção (Bugs)
+9837;Erro - Inspeções de Auditoria visíveis para o perfil Transportador;"Olá; tudo bem?
+Foi identificado que usuários com o perfil de acesso ""Transportador"" estão conseguindo visualiza e realizar Inspeções de Auditoria. Essas inspeções deveriam ser restritas ao perfil de auditores.";Frota Legal - Correções e Ajustes;2026-03-20T13:39:49Z;thayna.santos@demarco.com.br;Em Análise;2026-03-20T13:45:25Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;Correção (Bugs)
+9838;Erro | Mensagem 'Equipamento Não Encontrado' no APP;"Bom dia!
+
+A placa QHQ6J59 está cadastrada no Frota Legal no cliente Amazon. Na página da web a placa aparece normalmente; porém; quando consultamos no aplicativo aparece a mensagem 'Equipamento Não Encontrado'. 
+
+A consulta no APP foi realizada por usuário e condutor. Versão 2.6.18 e 2.6.19.";Frota Legal - Correções e Ajustes;2026-03-20T14:29:45Z;gabrielle.andrade@demarco.com.br;Em Análise;2026-03-20T15:03:49Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Correção (Bugs)
+9839;GR DO CONDUTOR NÃO INTEGRA;"Olá; tudo bem?
+
+Peço; por gentileza; que verifique a integração com a gerenciadora de risco referente à pesquisa da OPENTECH do condutor Tiago.
+
+Conforme indicado no print abaixo; a pesquisa encontra-se válida; porém não houve a devida integração no sistema Frota Legal.
+
+O condutor foi liberado provisoriamente para não impactar a operação; mas é necessário regularizar a integração dessa pesquisa.";Frota Legal - Correções e Ajustes;2026-03-20T16:27:28Z;adriele.ribeiro@demarco.com.br;Em Análise;2026-03-20T17:05:38Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Correção (Bugs)
+9840;- Erro | Mensagem 'Usuário ou senha Inválidos' no APP;"Boa tarde;
+
+Foi relatado por transportadores vinculados ao cliente 'Amazon' ; dificuldades de acesso ao aplicativo por parte dos condutores.
+
+Mesmo após o correto preenchimento dos dados de login — CPF e código recebido via SMS — o sistema retorna a mensagem: “usuário ou senha inválidos”. 
+Ressaltamos que os condutores já validaram as informações inseridas; não identificando inconsistências nos dados informados.
+
+Adicionalmente; foi realizada a conferência da versão do aplicativo utilizado pelos condutores; garantindo que todos estão com a versão mais atual disponível; descartando; a princípio; possíveis inconsistências relacionadas à desatualização do app.
+
+Diante disso; solicitamos a verificação e correção do possível erro com a maior brevidade; considerando que o acesso ao aplicativo é essencial para a realização dos registros de inspeção exigidos pelo cliente.
+
+Erros de acesso apresentados aos seguintes condutores até o momento :
+
+Nome: RODRIGO REZENDE RIBEIRO
+CPF:  01200940610 
+Celular: (31) 99306-7996
+
+Nome: ADILSON CAMILO DA SILVA
+CPF: 00363540660
+Celular: (55) 31998-7411
+";Frota Legal - Correções e Ajustes;2026-03-20T17:41:46Z;maike.silva@demarco.com.br;Caixa de Entrada;2026-03-20T17:13:21Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Correção (Bugs)
