@@ -1962,7 +1962,7 @@ Dessa forma; solicitamos a verificação do filtro/apuração dessas informaçõ
 Gentileza verificar o porque de não haver o histórico e se for o caso recarregar a tabela.";Frota Legal - Correções e Ajustes;2026-02-09T18:48:47Z;lilian.rodrigues@demarco.com.br;Concluído ou Descontinuado;2026-03-12T19:32:03Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9508;#21694 - Falha no envio de token;"Boa tarde! 
 
-Gentileza verificar o usuário supervisao.operacoes@aratuservice.com.br não está recebendo o token de acesso; nem conseguindo alterar a senha.";Frota Legal - Correções e Ajustes;2026-02-09T18:55:16Z;lilian.rodrigues@demarco.com.br;Em Andamento;2026-03-04T20:41:43Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+Gentileza verificar o usuário supervisao.operacoes@aratuservice.com.br não está recebendo o token de acesso; nem conseguindo alterar a senha.";Frota Legal - Correções e Ajustes;2026-02-09T18:55:16Z;lilian.rodrigues@demarco.com.br;Em Validação Produção;2026-03-30T18:52:40Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9538;#21749 - Itens justificados no APP nao sobem pro sistema ;"Foi realizada a baixa da pendência de vistoria no aplicativo; no entanto; a atualização não está sendo refletida no site.
 
 Identificamos que as placas UGQ6B06; vinculada a Equipamentos Móveis; e QQV-6534; vinculada à GFL; já constam como regularizadas no app; porém permanecem com status de pendência no sistema web.";Frota Legal - Correções e Ajustes;2026-02-11T19:03:07Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2026-02-23T03:00:30Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;"corrigido; sem sinalizações. ";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
@@ -2099,10 +2099,10 @@ Estamos identificando uma falha na integração com a gerenciadora de risco no s
 Verificamos que não houve integração no dia de hoje. As últimas integrações ocorreram ontem; em 25/02/2026.
 
 Poderiam; por gentileza; verificar o ocorrido?";Frota Legal - Correções e Ajustes;2026-02-26T15:43:54Z;adriele.ribeiro@demarco.com.br;Concluído ou Descontinuado;2026-02-27T03:00:27Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;"Olá; tudo bem? Fiz a analise do dia 27/02 para cá e esta normalizado.";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
-9721;#22068 - Erro ao salvar cadastro de Transportador - sistema não indica erro nos campos de telefone;"Pessoal; já verificamos há algum tempos e em diferentes clientes; que muitas vezes; ao tentar salvar o cadastro de um transportador; o cadastro não salva mas também não apresenta mensagem de erro indicando o que poderia ser. Por ""tentativa e erro"" descobrimos que isso acontece normalmente com algum tipo de erro nos campos de Telefone e/ou Celular. Limpamos o campo; colocamos os dados de novo e o cadastro salva corretamente. Porém; o certo seria o sistema indicar que há um erro nestes campos para que todos os usuários consigam salvar os cadastros corretamente.";Frota Legal - Correções e Ajustes;2026-02-27T11:17:59Z;hannah.moreira@demarco.com.br;Impedimento;2026-03-25T03:00:27Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;1;"Pessoal; o erro persiste! Segue jam abaixo com detalhes e planilha que usei em anexo!
+9721;#22068 - Erro ao salvar cadastro de Transportador - sistema não indica erro nos campos de telefone;"Pessoal; já verificamos há algum tempos e em diferentes clientes; que muitas vezes; ao tentar salvar o cadastro de um transportador; o cadastro não salva mas também não apresenta mensagem de erro indicando o que poderia ser. Por ""tentativa e erro"" descobrimos que isso acontece normalmente com algum tipo de erro nos campos de Telefone e/ou Celular. Limpamos o campo; colocamos os dados de novo e o cadastro salva corretamente. Porém; o certo seria o sistema indicar que há um erro nestes campos para que todos os usuários consigam salvar os cadastros corretamente.";Frota Legal - Correções e Ajustes;2026-02-27T11:17:59Z;hannah.moreira@demarco.com.br;Para Teste (Homologação);2026-03-30T18:17:25Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;1;"Pessoal; o erro persiste! Segue jam abaixo com detalhes e planilha que usei em anexo!
 https://jam.dev/c/31a0d7e6-3d34-4d51-afd1-ee8a73b9e434";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9722;#22048 - Habilitar consulta CNH via DMGateway – Ambiente Grupo Vyas;"Precisamos habilitar; no ambiente do Grupo Vyas; a consulta via DMGateway para ativação da API de CNH; responsável por realizar a integração de consulta junto à Mônaco.
-Solicitamos; por gentileza; que após a habilitação da API; nos confirmem quando a ativação for concluída para que possamos validar o funcionamento.";Frota Legal - Correções e Ajustes;2026-02-27T13:40:49Z;fernanda.mariante@demarco.com.br;Em Validação Produção;2026-03-20T17:42:03Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;Ajuste (Melhorias Rápidas e Pontuais)
+Solicitamos; por gentileza; que após a habilitação da API; nos confirmem quando a ativação for concluída para que possamos validar o funcionamento.";Frota Legal - Correções e Ajustes;2026-02-27T13:40:49Z;fernanda.mariante@demarco.com.br;Concluído ou Descontinuado;2026-03-20T03:00:03Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;"Muito bom; obrigada! ";Ajuste (Melhorias Rápidas e Pontuais)
 9732;#22090 - ERRO: Falha na integração do SAP FROTA;"Ao verificar as integrações do SAP no sistema Frota; identifiquei que alguns condutores estão apresentando falha no SAP.
 
 Para minimizar o impacto; quando detectamos essa inconsistência; realizamos um ajuste manual; inserindo um documento e posteriormente excluindo-o para regularização. No entanto; atualmente não possuímos um relatório ou mecanismo específico que nos permita identificar esse erro de forma proativa — a falha é percebida apenas durante atendimentos ou ao consultar CPFs pontualmente.
@@ -2127,7 +2127,7 @@ Status “atenção”: Manter exclusivamente para documentos próximos do venci
 Essa padronização traz mais clareza operacional; evita interpretações equivocadas e mantém coerência com a regra já aplicada aos documentos; reforçando o controle e a governança do processo. Isso deve ser parametrizado uma vez que para a Gerdau deve ficar bloqueado e já na Ambev precisamos manter o fluxo como está hoje: aguardando validação e; após a análise; definir se ficará liberado ou bloqueado. ";Frota Legal - Correções e Ajustes;2026-03-04T11:51:32Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-04T11:47:18Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9777;#22155 - ERRO: Envio de alertas incompleto ;"Boa tarde! Verificamos que; desde que os alertas foram restabelecidos (21/02/2026); os alertas que estão sendo enviados pelo sistema Frota Legal; não estão com as informações de condutores que saíram da Faixa Verde. Verificamos isso devido a reclamações dos transportadores; e com o nosso usuário de teste.
 
-Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Andamento;2026-03-19T13:20:23Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Bom dia! 
+Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Validação Produção;2026-03-30T18:54:06Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Bom dia! 
 
 Verificamos no nosso usuário de teste que os alertas de faixas ainda não estão sendo enviados; conforme consta no anexo. ";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9779;#22146 - ERRO: Correção regra 30 dias CNH;"Solicito a correção do bug referente à validade da CNH no prontuário do condutor; nos ambientes Ambev; Ambev Revenda; SPOT T1 e Grupo Vyas.
@@ -2168,7 +2168,8 @@ Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatóri
 
 Todos os parâmetros estão configurados corretamente; porem não identificamos a raiz do problema. ";Frota Legal - Correções e Ajustes;2026-03-16T17:49:30Z;marques.pereira@demarco.com.br;Pronto para Atuar;2026-03-16T03:00:42Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9829;#22528 - ERRO:  Unidades Banco de Dados;"Olá; tudo bem?
-As unidades criadas no Frota a 2 semanas ainda não foram para o Dashboard; conforme o print da conversa com o Lucas Colares.";Frota Legal - Correções e Ajustes;2026-03-17T12:12:14Z;thayna.santos@demarco.com.br;Em Validação Produção;2026-03-25T16:04:06Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;Não refletiu as informações ainda.;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+As unidades criadas no Frota a 2 semanas ainda não foram para o Dashboard; conforme o print da conversa com o Lucas Colares.";Frota Legal - Correções e Ajustes;2026-03-17T12:12:14Z;thayna.santos@demarco.com.br;Impedimento;2026-03-25T03:00:06Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;1;"""Thayná; ainda não rolou
+se você ver; a unidade só aparece nas tabelas de condutor e de equipamento; e nao na principal de Unidade"". Retorno do Lucas Colares";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9830;Ajuste | Erro - Veículos Não Estão sendo liberados automaticamente após desbloqueio do transportador;"É necessario ajustar a regra ou o fluxo de atualização do sistema para que; após a regularização de um documento obrigatório vencido; o desbloqueio seja aplicado de forma automática e sincronizada tanto para o transportador quanto para todos os veículos a ele vinculados.
 
 Link do Jam:
@@ -2186,19 +2187,19 @@ Quando tentamos acessar as placas para realizar as inspeções sendo por (Inspe�
 9836;#22711 - ERRO: Gravação de Inspeções: Dados não salvam após a conclusão no App;"Olá; tudo bem?
 O transportador executa todo o fluxo de inspeção de um veículo; preenche os campos e clica em ""Salvar/Finalizar"". O aplicativo indica que o processo foi concluído; porém a inspeção não aparece no histórico; obrigando o usuário a refazer o processo diversas vezes.";Frota Legal - Correções e Ajustes;2026-03-20T13:27:12Z;thayna.santos@demarco.com.br;Pronto para Atuar;2026-03-23T19:04:58Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9837;#22714 - Erro - Inspeções de Auditoria visíveis para o perfil Transportador;"Olá; tudo bem?
-Foi identificado que usuários com o perfil de acesso ""Transportador"" estão conseguindo visualiza e realizar Inspeções de Auditoria. Essas inspeções deveriam ser restritas ao perfil de auditores.";Frota Legal - Correções e Ajustes;2026-03-20T13:39:49Z;thayna.santos@demarco.com.br;Pronto para Atuar;2026-03-23T19:32:49Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+Foi identificado que usuários com o perfil de acesso ""Transportador"" estão conseguindo visualiza e realizar Inspeções de Auditoria. Essas inspeções deveriam ser restritas ao perfil de auditores.";Frota Legal - Correções e Ajustes;2026-03-20T13:39:49Z;thayna.santos@demarco.com.br;Em Validação Produção;2026-03-26T19:09:54Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9838;#22734 - Erro | Mensagem 'Equipamento Não Encontrado' no APP;"Bom dia!
 
 A placa QHQ6J59 está cadastrada no Frota Legal no cliente Amazon. Na página da web a placa aparece normalmente; porém; quando consultamos no aplicativo aparece a mensagem 'Equipamento Não Encontrado'. 
 
-A consulta no APP foi realizada por usuário e condutor. Versão 2.6.18 e 2.6.19.";Frota Legal - Correções e Ajustes;2026-03-20T14:29:45Z;gabrielle.andrade@demarco.com.br;Pronto para Atuar;2026-03-23T21:08:00Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+A consulta no APP foi realizada por usuário e condutor. Versão 2.6.18 e 2.6.19.";Frota Legal - Correções e Ajustes;2026-03-20T14:29:45Z;gabrielle.andrade@demarco.com.br;Em Validação Produção;2026-03-30T18:57:37Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9839;#22738 - ERRO: GR do condutor não integra;"Olá; tudo bem?
 
 Peço; por gentileza; que verifique a integração com a gerenciadora de risco referente à pesquisa da OPENTECH do condutor Tiago.
 
 Conforme indicado no print abaixo; a pesquisa encontra-se válida; porém não houve a devida integração no sistema Frota Legal.
 
-O condutor foi liberado provisoriamente para não impactar a operação; mas é necessário regularizar a integração dessa pesquisa.";Frota Legal - Correções e Ajustes;2026-03-20T16:27:28Z;adriele.ribeiro@demarco.com.br;Pronto para Atuar;2026-03-23T03:00:02Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+O condutor foi liberado provisoriamente para não impactar a operação; mas é necessário regularizar a integração dessa pesquisa.";Frota Legal - Correções e Ajustes;2026-03-20T16:27:28Z;adriele.ribeiro@demarco.com.br;Em Validação Produção;2026-03-30T18:56:37Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9840;#22737 - ERRO: Mensagem 'Usuário ou senha Inválidos' no APP;"Boa tarde;
 
 Foi relatado por transportadores vinculados ao cliente 'Amazon' ; dificuldades de acesso ao aplicativo por parte dos condutores.
@@ -2219,4 +2220,10 @@ Celular: (31) 99306-7996
 Nome: ADILSON CAMILO DA SILVA
 CPF: 00363540660
 Celular: (55) 31998-7411
-";Frota Legal - Correções e Ajustes;2026-03-20T17:41:46Z;maike.silva@demarco.com.br;Pronto para Atuar;2026-03-23T03:00:48Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+";Frota Legal - Correções e Ajustes;2026-03-20T17:41:46Z;maike.silva@demarco.com.br;Concluído ou Descontinuado;2026-03-26T03:00:44Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;"Olá; equipe!
+
+Os usuários envolvidos realizaram os testes após a correção aplicada e; até o momento; está tudo OK.
+
+Não foram identificadas divergências durante as validações realizadas; e o processo segue funcionando normalmente.
+
+Obrigado!";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
