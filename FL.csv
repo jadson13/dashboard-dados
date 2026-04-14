@@ -2165,7 +2165,7 @@ Status “atenção”: Manter exclusivamente para documentos próximos do venci
 Essa padronização traz mais clareza operacional; evita interpretações equivocadas e mantém coerência com a regra já aplicada aos documentos; reforçando o controle e a governança do processo. Isso deve ser parametrizado uma vez que para a Gerdau deve ficar bloqueado e já na Ambev precisamos manter o fluxo como está hoje: aguardando validação e; após a análise; definir se ficará liberado ou bloqueado. ";Frota Legal - Correções e Ajustes;2026-03-04T11:51:32Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-04T11:47:18Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9777;#22155 - ERRO: Envio de alertas incompleto ;"Boa tarde! Verificamos que; desde que os alertas foram restabelecidos (21/02/2026); os alertas que estão sendo enviados pelo sistema Frota Legal; não estão com as informações de condutores que saíram da Faixa Verde. Verificamos isso devido a reclamações dos transportadores; e com o nosso usuário de teste.
 
-Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Validação Produção;2026-04-07T12:44:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Bom dia! 
+Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Andamento;2026-04-13T19:56:36Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Bom dia! 
 
 Verificamos no nosso usuário de teste que os alertas de faixas ainda não estão sendo enviados; conforme consta no anexo. ";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9779;#22146 - ERRO: Correção regra 30 dias CNH;"Solicito a correção do bug referente à validade da CNH no prontuário do condutor; nos ambientes Ambev; Ambev Revenda; SPOT T1 e Grupo Vyas.
@@ -2275,3 +2275,5 @@ Ao logar; deveria aparecer a opção de selecionar o cliente; porém; o aplicati
 
 034.633.495-07
 senha: 166903";Frota Legal - Correções e Ajustes;2026-03-31T13:44:10Z;larice.nunes@demarco.com.br;Concluído ou Descontinuado;2026-03-31T13:48:13Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+9844;Melhoria - Relatório na tela de consulta de CNH;"Olá; tudo bem?
+Para otimizar a análise de dados e o acompanhamento da frota; solicitamos a criação de uma funcionalidade de extração de relatórios (formato .xlsx) diretamente na tela de consulta de CNH.";Frota Legal - Correções e Ajustes;2026-04-10T15:07:53Z;thayna.santos@demarco.com.br;Caixa de Entrada;2026-04-10T15:02:36Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
