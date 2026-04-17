@@ -1520,7 +1520,7 @@ Solicitamos análise e ajuste no comportamento do módulo para que a retirada da
 TAUA FAPPI NUNES
 04495165046
 (51) 98319-8403";Frota Legal - Correções e Ajustes;2025-10-02T18:19:19Z;larice.nunes@demarco.com.br;Concluído ou Descontinuado;2025-11-10T18:06:21Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;ok;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
-6623;19213 - ERRO - USUARIOS INATIVOS SENDO DELETADOS DA TELA DE USUARIO ;"Ao inativar um acesso no sistema; o usuário deixa de aparecer na tela de listagem de usuários. Esse comportamento está em conformidade com as regras definidas pelo JAM; que estabelece que acessos inativos não devem ser exibidos na interface principal; permanecendo apenas em registros internos e relatórios administrativos.";Frota Legal - Correções e Ajustes;2025-10-02T19:11:28Z;marques.pereira@demarco.com.br;Impedimento;2026-02-04T21:39:49Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+6623;[19213] [MELHORIA] USUARIOS INATIVOS SENDO DELETADOS DA TELA DE USUARIO ;"Ao inativar um acesso no sistema; o usuário deixa de aparecer na tela de listagem de usuários. Esse comportamento está em conformidade com as regras definidas pelo JAM; que estabelece que acessos inativos não devem ser exibidos na interface principal; permanecendo apenas em registros internos e relatórios administrativos.";Frota Legal - Correções e Ajustes;2025-10-02T19:11:28Z;marques.pereira@demarco.com.br;Impedimento;2026-02-04T03:00:49Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 6624;Erro na exibição — Usuários  habilitados não conseguem visualizar veículos e equipamentos;"Foi identificado um problema no sistema em que alguns acessos; mesmo com acesso válido e devidamente habilitados para visualizar veículos e equipamentos; não estão conseguindo acessar essas informações. A tela aparece com os dados desabilitados; impedindo a consulta normal; envio de documentos e bloqueio de operações.
 Essa falha afeta diretamente a experiência do cliente; bloqueando a visualização de informações essenciais sobre veículos e equipamentos; o que pode comprometer processos operacionais. Exemplos: manutencao.bcv@emflora.com.br; fernanda.silva@iterceler.com.br.";Frota Legal - Correções e Ajustes;2025-10-02T19:23:37Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2025-10-09T12:31:42Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;5;ok;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 6689;19279 - Erro - Usuário sumindo quando inativamos;"Olá; tudo bem?
@@ -1851,7 +1851,7 @@ Identificamos que o sistema está mantendo a pendência de entrevista de fadiga;
 Segue exemplo:
 
 JOSE ADEMIR MARQUES JUNIOR	93439709272	";Frota Legal - Correções e Ajustes;2026-02-02T14:21:25Z;sabrina.alcantara@demarco.com.br;Concluído ou Descontinuado;2026-03-13T03:00:15Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;Oi Gi! Certinho! Muito obrigada!;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
-9415;"#21560 - Erro - Inconsistência na classificação de documentos (aprovados; pré-aprovados e reprovados)";"Olá! 
+9415;"[21560] Inconsistência na classificação de documentos (aprovados; pré-aprovados e reprovados)";"Olá! 
 
 Ao verificar os dados de documentos para construção do dashboard para a frota SPOT; verificamos com o time de DL que os dados de documentos que constam no sistema/relatório prontuário extraído do sistema; não estão batendo com as informações do banco de dados. 
 
@@ -1867,7 +1867,7 @@ Ainda temos diverências. Seguem alguns exemplos no print anexo. Obrigada!
 
 
 Atualização 08/04/2026 - Ainda temos incosistências. Teste anexo. ";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
-9417;#21562 - Erro - Divergência nos números de status e faixas dos colaboradores;"Olá;
+9417;[21562] Divergência nos números de status e faixas dos colaboradores;"Olá;
 
 Durante a validação dos dados de condutores liberados; bloqueados; em atenção e faixas de classificação; utilizados na construção do dashboard da frota SPOT; alinhamos com o time de DL e identificamos divergências entre os números apresentados no sistema e os dados disponibilizados no banco de dados.
 
@@ -2204,7 +2204,7 @@ Caso haja outra sugestão de como realizar essas transferências; fiquem à vont
 Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatório de Cadastro do Condutor.";Frota Legal - Correções e Ajustes;2026-03-11T19:20:59Z;gabrielle.andrade@demarco.com.br;Pronto para Atuar;2026-03-20T14:58:29Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9828;#22457 - ERRO: checklist pendente porem aprovado no sistema ;"O checklist de mobilização da placa CAP5774  foi aprovado porém; o sistema ainda o apresenta como bloqueado por pendência no checklist de mobilização.
 
-Todos os parâmetros estão configurados corretamente; porem não identificamos a raiz do problema. ";Frota Legal - Correções e Ajustes;2026-03-16T17:49:30Z;marques.pereira@demarco.com.br;Em Validação Produção;2026-04-07T12:19:14Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+Todos os parâmetros estão configurados corretamente; porem não identificamos a raiz do problema. ";Frota Legal - Correções e Ajustes;2026-03-16T17:49:30Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2026-04-16T19:35:40Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9829;#22528 - ERRO:  Unidades Banco de Dados;"Olá; tudo bem?
 As unidades criadas no Frota a 2 semanas ainda não foram para o Dashboard; conforme o print da conversa com o Lucas Colares.";Frota Legal - Correções e Ajustes;2026-03-17T12:12:14Z;thayna.santos@demarco.com.br;Concluído ou Descontinuado;2026-04-02T03:00:26Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;Aprovado;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9830;Ajuste | Erro - Veículos Não Estão sendo liberados automaticamente após desbloqueio do transportador;"É necessario ajustar a regra ou o fluxo de atualização do sistema para que; após a regularização de um documento obrigatório vencido; o desbloqueio seja aplicado de forma automática e sincronizada tanto para o transportador quanto para todos os veículos a ele vinculados.
@@ -2230,7 +2230,7 @@ Foi identificado que usuários com o perfil de acesso ""Transportador"" estão c
 A placa QHQ6J59 está cadastrada no Frota Legal no cliente Amazon. Na página da web a placa aparece normalmente; porém; quando consultamos no aplicativo aparece a mensagem 'Equipamento Não Encontrado'. 
 
 A consulta no APP foi realizada por usuário e condutor. Versão 2.6.18 e 2.6.19.";Frota Legal - Correções e Ajustes;2026-03-20T14:29:45Z;gabrielle.andrade@demarco.com.br;Concluído ou Descontinuado;2026-03-30T03:00:37Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;Teste realizado pelo time Demarco!;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
-9839;#22738 - ERRO: GR do condutor não integra;"Olá; tudo bem?
+9839;[22738] OPENTECH - GR do condutor não integra;"Olá; tudo bem?
 
 Peço; por gentileza; que verifique a integração com a gerenciadora de risco referente à pesquisa da OPENTECH do condutor Tiago.
 
