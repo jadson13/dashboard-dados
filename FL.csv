@@ -1965,7 +1965,7 @@ Verificamos juntamente com o time de DL durante a construção do dash para frot
 
 Por gentileza; precisamos do histórico completo de movimentações (ocorrências; afastamento; admissão; demissão/inativação; alteração de cargo;....) de todas as admissões (atual e passadas); independente de ser da TP atual ou outra.
 
-Muito obrigada!";Frota Legal - Correções e Ajustes;2026-02-03T15:02:25Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-04-07T18:25:59Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Olá! 
+Muito obrigada!";Frota Legal - Correções e Ajustes;2026-02-03T15:02:25Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-04-07T03:00:59Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Olá! 
 Ao analisar os dados junto com a equipe de DL; pegamos como exemplo o condutor ABDON VIEIRA NASCIMENTO NETO	05429580589 e vimos que a data de admissão não aparece (planilha anexa); que seria um dos dados mais importantes do histórico. 
 
 As informações mais importantes para o histórico são:
@@ -1974,6 +1974,10 @@ histórico de admissões
 histórico de desligamento
 
 Seria possível refletir essas informações? Obrigada!
+
+Atuaização 20/04/2026
+Boa tarde! 
+Ainda encontramos divergências. Gentileza verificar as evidências no arquivo word anexado com data de hoje. Muito obrigada!
 ";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9442;#21639 - Disponibilizar Base de Documentos - MELI;"Bom dia; pessoal! O Mercado Livre encerrou seu contrato conosco e por tanto não possuem mais acesso ao sistema.
 Porém; como o que foi depositado no sistema ""pertence"" à eles; gostariam de receber e ter acesso à base de documentos ativos atuais. Esta base deve ser disponibilizda fora do Frota Legal.";Frota Legal - Correções e Ajustes;2026-02-05T11:46:40Z;hannah.moreira@demarco.com.br;Concluído ou Descontinuado;2026-02-23T17:18:35Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;;;Ajuste (Melhorias Rápidas e Pontuais)
@@ -2165,7 +2169,7 @@ Status “atenção”: Manter exclusivamente para documentos próximos do venci
 Essa padronização traz mais clareza operacional; evita interpretações equivocadas e mantém coerência com a regra já aplicada aos documentos; reforçando o controle e a governança do processo. Isso deve ser parametrizado uma vez que para a Gerdau deve ficar bloqueado e já na Ambev precisamos manter o fluxo como está hoje: aguardando validação e; após a análise; definir se ficará liberado ou bloqueado. ";Frota Legal - Correções e Ajustes;2026-03-04T11:51:32Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-04T11:47:18Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9777;#22155 - ERRO: Envio de alertas incompleto ;"Boa tarde! Verificamos que; desde que os alertas foram restabelecidos (21/02/2026); os alertas que estão sendo enviados pelo sistema Frota Legal; não estão com as informações de condutores que saíram da Faixa Verde. Verificamos isso devido a reclamações dos transportadores; e com o nosso usuário de teste.
 
-Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Andamento;2026-04-13T19:56:36Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Bom dia! 
+Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Validação Produção;2026-04-17T16:59:08Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Bom dia! 
 
 Verificamos no nosso usuário de teste que os alertas de faixas ainda não estão sendo enviados; conforme consta no anexo. ";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9779;#22146 - ERRO: Correção regra 30 dias CNH;"Solicito a correção do bug referente à validade da CNH no prontuário do condutor; nos ambientes Ambev; Ambev Revenda; SPOT T1 e Grupo Vyas.
@@ -2236,7 +2240,7 @@ Peço; por gentileza; que verifique a integração com a gerenciadora de risco r
 
 Conforme indicado no print abaixo; a pesquisa encontra-se válida; porém não houve a devida integração no sistema Frota Legal.
 
-O condutor foi liberado provisoriamente para não impactar a operação; mas é necessário regularizar a integração dessa pesquisa.";Frota Legal - Correções e Ajustes;2026-03-20T16:27:28Z;adriele.ribeiro@demarco.com.br;Impedimento;2026-04-07T03:00:05Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Luísa; boa tarde; tudo bem?
+O condutor foi liberado provisoriamente para não impactar a operação; mas é necessário regularizar a integração dessa pesquisa.";Frota Legal - Correções e Ajustes;2026-03-20T16:27:28Z;adriele.ribeiro@demarco.com.br;Pronto p/ Publicar em Produção;2026-04-22T12:48:05Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Luísa; boa tarde; tudo bem?
 
 O problema inicial; relacionado ao bloqueio do condutor; já foi resolvido. No entanto; apesar de ele constar como liberado; a pesquisa não está aparecendo no sistema.
 
@@ -2277,3 +2281,6 @@ Ao logar; deveria aparecer a opção de selecionar o cliente; porém; o aplicati
 senha: 166903";Frota Legal - Correções e Ajustes;2026-03-31T13:44:10Z;larice.nunes@demarco.com.br;Concluído ou Descontinuado;2026-03-31T13:48:13Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;0;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9844;Melhoria - Relatório na tela de consulta de CNH;"Olá; tudo bem?
 Para otimizar a análise de dados e o acompanhamento da frota; solicitamos a criação de uma funcionalidade de extração de relatórios (formato .xlsx) diretamente na tela de consulta de CNH.";Frota Legal - Correções e Ajustes;2026-04-10T15:07:53Z;thayna.santos@demarco.com.br;Caixa de Entrada;2026-04-10T15:02:36Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+9846;Troca de e-mail em massa;"Olá; tudo bem?
+Realizar a troca dos e-mails da BRF em massa.
+Hoje os e-mails estão @brf.com e será @mbrf.com; todos os e-mails que são necessário a troca estão na planilha.";Frota Legal - Correções e Ajustes;2026-04-22T15:14:47Z;thayna.santos@demarco.com.br;Caixa de Entrada;2026-04-22T15:09:19Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
