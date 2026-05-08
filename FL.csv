@@ -2035,10 +2035,10 @@ Placa: QZH8G51 em inspeções não aparece nada e renovar inspeções aparece (c
 Usuário Inspeções fora do período: Funcionou somente no IOS.
 Placa: KQR2D69 aparece em inspeções (check do fornecedor); renovar inspeções não aparece nada;
 Placa: QZH8G51 em inspeções não aparece nada e renovar inspeções aparece (check do fornecedor);";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
-9573;Melhoria - Implementação de Exportação de Inspeção em PDF com Imagens;"* Incluir botão ""Baixar PDF"" ao lado do botão de Excel já existente.
+9573;#18835 - Melhoria - Implementação de Exportação de Inspeção em PDF com Imagens;"* Incluir botão ""Baixar PDF"" ao lado do botão de Excel já existente.
 
 * As fotos devem aparecer logo abaixo da respectiva resposta ou em um anexo ao final do documento com referência à pergunta.
-* Sugiro aos devs que a geração do PDF seja feita de forma assíncrona (com aviso de ""Gerando arquivo; enviaremos uma notificação"") para não travar a tela do usuário enquanto o servidor processa as imagens. Com a criação da central de notificação nesse caso.";Frota Legal - Correções e Ajustes;2026-02-20T13:12:58Z;thayna.santos@demarco.com.br;Caixa de Entrada;2026-02-20T12:23:09Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+* Sugiro aos devs que a geração do PDF seja feita de forma assíncrona (com aviso de ""Gerando arquivo; enviaremos uma notificação"") para não travar a tela do usuário enquanto o servidor processa as imagens. Com a criação da central de notificação nesse caso.";Frota Legal - Correções e Ajustes;2026-02-20T13:12:58Z;thayna.santos@demarco.com.br;Pronto para Atuar;2026-04-27T17:58:31Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9586;Melhoria - Correção de Lógica na Renovação de Inspeções (Manutenção de Validade);"* Status ""Em Rascunho"": Criar um estado intermediário para a nova inspeção sem alterar o objeto da inspeção anterior.
 * O status da inspeção antiga só devem ser alterado (ou substituídos pelo novo registro) no momento do Finalização da nova inspeção.";Frota Legal - Correções e Ajustes;2026-02-20T14:55:11Z;thayna.santos@demarco.com.br;Caixa de Entrada;2026-02-20T14:23:43Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9668;"#21908 - ERRO: Mensagem ""Verifique Console"" ao tentar cadastrar condutores";"Pessoal; ao tentar cadastrar um condutor novo; mesmo preenchendo todos os dados obrigatórios; o sistema está acusando o seguinte erro: ""Erro ao salvar condutor. Verifique o console"".
@@ -2065,7 +2065,7 @@ No caso deste cliente foi possível interromper o envio de alertas no geral pois
 
 Para o campo de documento do condutor; vamos ""generalizar"" para facilitar a entrada de possíveis novos países no futuro; o nome do campo deve ser Número de Documento de Identidad.
 
-Caso facilite a criação do ambiente; podem ""duplicar"" o ambiente do Chile com essa alteração do campo do condutor. Ficamos à disposição caso queiram agendar um momento para ver cada ponto :)";Frota Legal - Correções e Ajustes;2026-02-24T15:00:50Z;hannah.moreira@demarco.com.br;Para Teste (Homologação);2026-04-07T18:48:17Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+Caso facilite a criação do ambiente; podem ""duplicar"" o ambiente do Chile com essa alteração do campo do condutor. Ficamos à disposição caso queiram agendar um momento para ver cada ponto :)";Frota Legal - Correções e Ajustes;2026-02-24T15:00:50Z;hannah.moreira@demarco.com.br;Concluído ou Descontinuado;2026-04-24T12:52:08Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9689;#21694 - Erro no recebimento de token;"Solicito; por gentileza; a verificação do caso do usuário rute.lucena@hotmail.com no frota legal; que não está recebendo o token de acesso para login no sistema.
 
 Já foram realizados testes; incluindo a inclusão/atualização do número de telefone no cadastro; porém o problema persiste e o token não é entregue ao usuário.
@@ -2169,9 +2169,32 @@ Status “atenção”: Manter exclusivamente para documentos próximos do venci
 Essa padronização traz mais clareza operacional; evita interpretações equivocadas e mantém coerência com a regra já aplicada aos documentos; reforçando o controle e a governança do processo. Isso deve ser parametrizado uma vez que para a Gerdau deve ficar bloqueado e já na Ambev precisamos manter o fluxo como está hoje: aguardando validação e; após a análise; definir se ficará liberado ou bloqueado. ";Frota Legal - Correções e Ajustes;2026-03-04T11:51:32Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-04T11:47:18Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9777;#22155 - ERRO: Envio de alertas incompleto ;"Boa tarde! Verificamos que; desde que os alertas foram restabelecidos (21/02/2026); os alertas que estão sendo enviados pelo sistema Frota Legal; não estão com as informações de condutores que saíram da Faixa Verde. Verificamos isso devido a reclamações dos transportadores; e com o nosso usuário de teste.
 
-Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Validação Produção;2026-04-17T16:59:08Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Bom dia! 
+Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Impedimento;2026-05-06T18:25:58Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Bom dia! 
 
-Verificamos no nosso usuário de teste que os alertas de faixas ainda não estão sendo enviados; conforme consta no anexo. ";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+Verificamos no nosso usuário de teste que os alertas de faixas ainda não estão sendo enviados; conforme consta no anexo. 
+
+
+
+
+
+
+
+
+Solicitação de correção 24/04:
+
+ 
+
+Boa tarde! Verificamos que ainda não aparecem nos alertas do frota as mudanças de faixa. Tivemos 3 colaboradores recentes com mudança de faixa que não apareceram nos alertas. 
+
+Para exemplificar; gravamos JAM e anexamos os alertas recebidos. 
+
+Colaborador citado no JAM: PAULO CESAR DE OLIVEIRA  74579827015  
+
+Obrigada!
+
+ 
+
+https://jam.dev/c/e170c262-d72c-4d22-8b3f-6e01c56bdfa4";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9779;#22146 - ERRO: Correção regra 30 dias CNH;"Solicito a correção do bug referente à validade da CNH no prontuário do condutor; nos ambientes Ambev; Ambev Revenda; SPOT T1 e Grupo Vyas.
 
 Atualmente; o sistema está considerando apenas a data de validade informada no cadastro do documento. Dessa forma; se a CNH vence em 04/03/2026; no dia 05/03/2026 o documento já consta como vencido no sistema.
@@ -2205,7 +2228,7 @@ Observação: Essa solicitação é necessária porque ainda existem colaborador
 Caso haja outra sugestão de como realizar essas transferências; fiquem à vontade para nos procurar para alinharmos as informações.";Frota Legal - Correções e Ajustes;2026-03-11T18:18:48Z;tallison.jesus@demarco.com.br;Caixa de Entrada;2026-03-11T17:43:35Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9827;#22668 - Ajuste | Inclusão de coluna 'E-mail' no Relatório de Cadastro de Condutor;"Boa tarde; Giselle!
 
-Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatório de Cadastro do Condutor.";Frota Legal - Correções e Ajustes;2026-03-11T19:20:59Z;gabrielle.andrade@demarco.com.br;Pronto para Atuar;2026-03-20T14:58:29Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+Por gentileza; gostaria de solicitar a inclusão da coluna 'E-mail' no relatório de Cadastro do Condutor.";Frota Legal - Correções e Ajustes;2026-03-11T19:20:59Z;gabrielle.andrade@demarco.com.br;Concluído ou Descontinuado;2026-04-24T03:00:51Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;5;Testado e aprovado!;Ajuste (Melhorias Rápidas e Pontuais)
 9828;#22457 - ERRO: checklist pendente porem aprovado no sistema ;"O checklist de mobilização da placa CAP5774  foi aprovado porém; o sistema ainda o apresenta como bloqueado por pendência no checklist de mobilização.
 
 Todos os parâmetros estão configurados corretamente; porem não identificamos a raiz do problema. ";Frota Legal - Correções e Ajustes;2026-03-16T17:49:30Z;marques.pereira@demarco.com.br;Concluído ou Descontinuado;2026-04-16T19:35:40Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
@@ -2284,3 +2307,6 @@ Para otimizar a análise de dados e o acompanhamento da frota; solicitamos a cri
 9846;Troca de e-mail em massa;"Olá; tudo bem?
 Realizar a troca dos e-mails da BRF em massa.
 Hoje os e-mails estão @brf.com e será @mbrf.com; todos os e-mails que são necessário a troca estão na planilha.";Frota Legal - Correções e Ajustes;2026-04-22T15:14:47Z;thayna.santos@demarco.com.br;Caixa de Entrada;2026-04-22T15:09:19Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+9848;"Ajuste ""Calcular Validade de Ocorrência Por Período"" - Adicionar opção Mensal";"Atualmente; dentro da parametrização de um tipo de ocorrência; já existem a possibilidade de configurar a validade da ocorrência para ""Calcular Validade Por Período""; considerando os períodos: Trimestal; Semestral; Anual.
+
+Precisamos que o período ""Mensal"" seja criado; seguindos as mesmas configurações e forma de funcionamento dos demais.";Frota Legal - Correções e Ajustes;2026-04-27T12:09:21Z;hannah.moreira@demarco.com.br;Caixa de Entrada;2026-04-27T12:04:52Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
