@@ -1331,7 +1331,7 @@ CPF: 78180279472 / 04787458779";Frota Legal - Correções e Ajustes;2025-08-19T2
 5734;18425 - Erro no relatório de cadastro de equipamentos;Ao exportar o relatório de cadastro de equipamentos algumas colunas estão com informação trocadas;Frota Legal - Correções e Ajustes;2025-08-20T18:28:36Z;larice.nunes@demarco.com.br;Concluído ou Descontinuado;2025-09-11T12:49:53Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;testado no ambiente dev;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 5784;#18428 - Erro ao extrair base contadores Frota legal;"No cliente Ambev; ao tentar exportar a base de condutores no módulo de cadastro de condutores; é apresentado um erro.";Frota Legal - Correções e Ajustes;2025-08-25T12:29:41Z;stefane.cordeiro@demarco.com.br;Concluído ou Descontinuado;2025-08-29T21:10:03Z;4 - Urgente - Problema crítico que precisa de atenção imediata.;False;5;obrigada;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 5791;#18442 - API Integração Logan - Inclusão da Revenda;"Atualmente; possuímos API integrada com o sistema da LOGAN. O cliente precisa que essa integração também contemple o cliente Revenda para poder consultar a foto do condutor; do veículo; o status; o tipo de veículo e a cor diretamente na portaria deles. ";Frota Legal - Correções e Ajustes;2025-08-25T14:15:07Z;stefane.cordeiro@demarco.com.br;Concluído ou Descontinuado;2025-11-10T18:07:51Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;Obrigada;Ajuste (Melhorias Rápidas e Pontuais)
-5793;PDF ao exportar inspeção;"O cliente solicitou a criação da opção de exportar a inspeção em PDF; pois somente em Excel não atende à demanda. Eles necessitam distribuir o arquivo para as unidades; destacando os itens NOK e as respectivas fotos.";Frota Legal - Correções e Ajustes;2025-08-25T15:23:37Z;larice.nunes@demarco.com.br;Caixa de Entrada;2025-08-25T15:14:37Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+5793;PDF ao exportar inspeção;"O cliente solicitou a criação da opção de exportar a inspeção em PDF; pois somente em Excel não atende à demanda. Eles necessitam distribuir o arquivo para as unidades; destacando os itens NOK e as respectivas fotos.";Frota Legal - Correções e Ajustes;2025-08-25T15:23:37Z;larice.nunes@demarco.com.br;Pronto p/ Publicar em Produção;2026-05-11T13:56:48Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 5794;#18436 - Erro para realizar check no app;"Placa está com o checklist quinzenal vencido porém no app não aparece a opção para regularização. Erro em todos os usuários que possuem acesso a TP
 Placa: FGU7C75
 Transportadora : MARONITRANSP";Frota Legal - Correções e Ajustes;2025-08-25T15:30:18Z;larice.nunes@demarco.com.br;Concluído ou Descontinuado;2025-11-10T18:07:21Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;5;ok;"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
@@ -1862,7 +1862,7 @@ cpf 05429580589
 
 No relatório extraído do sistema está vindo com aguardando; porém no banco está vindo como aprovado. Prints anexos. 
 
-O time de DL informou que acreditam ser um problema na tabela de verificacaodocumentocondutor que deveria estar como 6 no resultado.";Frota Legal - Correções e Ajustes;2026-02-03T13:06:56Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-04-07T03:00:37Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Olá; bom dia! 
+O time de DL informou que acreditam ser um problema na tabela de verificacaodocumentocondutor que deveria estar como 6 no resultado.";Frota Legal - Correções e Ajustes;2026-02-03T13:06:56Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-05-11T17:53:43Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Olá; bom dia! 
 Ainda temos diverências. Seguem alguns exemplos no print anexo. Obrigada!
 
 
@@ -1897,7 +1897,7 @@ Quantidade total: 8.427
 
 Gentileza verificar a causa dessas divergências entre o sistema e o banco de dados; bem como realizar os ajustes necessários.
 
-O print do dashboard e o relatório utilizado para comparação seguem anexos.";Frota Legal - Correções e Ajustes;2026-02-03T13:58:05Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-04-07T03:00:05Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Evidências teste ID #9417 #21562 - Erro - Divergência nos números de status e faixas dos colaboradores
+O print do dashboard e o relatório utilizado para comparação seguem anexos.";Frota Legal - Correções e Ajustes;2026-02-03T13:58:05Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-05-11T17:53:28Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Evidências teste ID #9417 #21562 - Erro - Divergência nos números de status e faixas dos colaboradores
  
 Ainda existem divergências; gentileza verificar. Evidências anexas.
  
@@ -1965,7 +1965,7 @@ Verificamos juntamente com o time de DL durante a construção do dash para frot
 
 Por gentileza; precisamos do histórico completo de movimentações (ocorrências; afastamento; admissão; demissão/inativação; alteração de cargo;....) de todas as admissões (atual e passadas); independente de ser da TP atual ou outra.
 
-Muito obrigada!";Frota Legal - Correções e Ajustes;2026-02-03T15:02:25Z;sabrina.alcantara@demarco.com.br;Impedimento;2026-04-07T03:00:59Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Olá! 
+Muito obrigada!";Frota Legal - Correções e Ajustes;2026-02-03T15:02:25Z;sabrina.alcantara@demarco.com.br;Em Validação Produção;2026-05-11T17:53:09Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;;"Olá! 
 Ao analisar os dados junto com a equipe de DL; pegamos como exemplo o condutor ABDON VIEIRA NASCIMENTO NETO	05429580589 e vimos que a data de admissão não aparece (planilha anexa); que seria um dos dados mais importantes do histórico. 
 
 As informações mais importantes para o histórico são:
@@ -2038,7 +2038,7 @@ Placa: QZH8G51 em inspeções não aparece nada e renovar inspeções aparece (c
 9573;#18835 - Melhoria - Implementação de Exportação de Inspeção em PDF com Imagens;"* Incluir botão ""Baixar PDF"" ao lado do botão de Excel já existente.
 
 * As fotos devem aparecer logo abaixo da respectiva resposta ou em um anexo ao final do documento com referência à pergunta.
-* Sugiro aos devs que a geração do PDF seja feita de forma assíncrona (com aviso de ""Gerando arquivo; enviaremos uma notificação"") para não travar a tela do usuário enquanto o servidor processa as imagens. Com a criação da central de notificação nesse caso.";Frota Legal - Correções e Ajustes;2026-02-20T13:12:58Z;thayna.santos@demarco.com.br;Pronto para Atuar;2026-04-27T17:58:31Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
+* Sugiro aos devs que a geração do PDF seja feita de forma assíncrona (com aviso de ""Gerando arquivo; enviaremos uma notificação"") para não travar a tela do usuário enquanto o servidor processa as imagens. Com a criação da central de notificação nesse caso.";Frota Legal - Correções e Ajustes;2026-02-20T13:12:58Z;thayna.santos@demarco.com.br;Pronto p/ Publicar em Produção;2026-05-11T13:49:02Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9586;Melhoria - Correção de Lógica na Renovação de Inspeções (Manutenção de Validade);"* Status ""Em Rascunho"": Criar um estado intermediário para a nova inspeção sem alterar o objeto da inspeção anterior.
 * O status da inspeção antiga só devem ser alterado (ou substituídos pelo novo registro) no momento do Finalização da nova inspeção.";Frota Legal - Correções e Ajustes;2026-02-20T14:55:11Z;thayna.santos@demarco.com.br;Caixa de Entrada;2026-02-20T14:23:43Z;"3 - Alta - Impacto significativo no cliente; exige resolução rápida.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9668;"#21908 - ERRO: Mensagem ""Verifique Console"" ao tentar cadastrar condutores";"Pessoal; ao tentar cadastrar um condutor novo; mesmo preenchendo todos os dados obrigatórios; o sistema está acusando o seguinte erro: ""Erro ao salvar condutor. Verifique o console"".
@@ -2169,7 +2169,7 @@ Status “atenção”: Manter exclusivamente para documentos próximos do venci
 Essa padronização traz mais clareza operacional; evita interpretações equivocadas e mantém coerência com a regra já aplicada aos documentos; reforçando o controle e a governança do processo. Isso deve ser parametrizado uma vez que para a Gerdau deve ficar bloqueado e já na Ambev precisamos manter o fluxo como está hoje: aguardando validação e; após a análise; definir se ficará liberado ou bloqueado. ";Frota Legal - Correções e Ajustes;2026-03-04T11:51:32Z;marques.pereira@demarco.com.br;Caixa de Entrada;2026-03-04T11:47:18Z;"1 - Baixa - Impacto mínimo; não afeta o funcionamento geral.";False;0;;Ajuste (Melhorias Rápidas e Pontuais)
 9777;#22155 - ERRO: Envio de alertas incompleto ;"Boa tarde! Verificamos que; desde que os alertas foram restabelecidos (21/02/2026); os alertas que estão sendo enviados pelo sistema Frota Legal; não estão com as informações de condutores que saíram da Faixa Verde. Verificamos isso devido a reclamações dos transportadores; e com o nosso usuário de teste.
 
-Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Impedimento;2026-05-06T18:25:58Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Bom dia! 
+Gentileza restabelecer o envio dos alertas de forma completa.";Frota Legal - Correções e Ajustes;2026-03-04T16:35:01Z;lidiane.fortunato@demarco.com.br;Em Andamento;2026-05-11T18:16:10Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Bom dia! 
 
 Verificamos no nosso usuário de teste que os alertas de faixas ainda não estão sendo enviados; conforme consta no anexo. 
 
@@ -2263,13 +2263,17 @@ Peço; por gentileza; que verifique a integração com a gerenciadora de risco r
 
 Conforme indicado no print abaixo; a pesquisa encontra-se válida; porém não houve a devida integração no sistema Frota Legal.
 
-O condutor foi liberado provisoriamente para não impactar a operação; mas é necessário regularizar a integração dessa pesquisa.";Frota Legal - Correções e Ajustes;2026-03-20T16:27:28Z;adriele.ribeiro@demarco.com.br;Pronto p/ Publicar em Produção;2026-04-22T12:48:05Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Luísa; boa tarde; tudo bem?
+O condutor foi liberado provisoriamente para não impactar a operação; mas é necessário regularizar a integração dessa pesquisa.";Frota Legal - Correções e Ajustes;2026-03-20T16:27:28Z;adriele.ribeiro@demarco.com.br;Impedimento;2026-05-11T03:00:03Z;"2 - Média - Atrapalha alguns processos; mas possui solução alternativa.";False;1;"Boa tarde; tudo bem?
 
-O problema inicial; relacionado ao bloqueio do condutor; já foi resolvido. No entanto; apesar de ele constar como liberado; a pesquisa não está aparecendo no sistema.
+Verificamos o caso e não identificamos nenhum erro junto à OpenTech.
 
-Dessa forma; peço; por gentileza; que verifique o CPF do condutor Tiago Luiz Santos Saraiva (CPF: 37338130817); pois ele está com status liberado; porém sem registro de pesquisa no sistema.
+O condutor Thiago Luiz Santos Saraiva; CPF 373.381.308-17; continua liberado e constando como “sem pesquisa” em nosso sistema. No entanto; ele possui pesquisa válida na OpenTech.
 
-Jam: https://jam.dev/c/23ed579f-716b-4af8-9e01-fefb21fc567b";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
+A última integração retornou o resultado “sem pesquisa”; portanto essa informação precisa ser corrigida.
+
+Referente à OpenTech; já possuímos um card aberto relacionado às integrações que estão apresentando falhas e não estão ocorrendo no intervalo correto de uma em uma hora.
+
+JAM: https: https://jam.dev/c/9fe15cd1-7c7f-437d-8060-8ed2769faf2a";"Correção (Bugs) [NÃO USAR; MIGRAMOS PARA DMNOW]"
 9840;#22737 - ERRO: Mensagem 'Usuário ou senha Inválidos' no APP;"Boa tarde;
 
 Foi relatado por transportadores vinculados ao cliente 'Amazon' ; dificuldades de acesso ao aplicativo por parte dos condutores.
